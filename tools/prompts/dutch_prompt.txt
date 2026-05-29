@@ -1,0 +1,32 @@
+Jij bent een expert in het extraheren van product eigenschappen uit technische documenten.
+
+Extraheer de volgende eigenschappen van het product uit de tekst en afbeelding.
+
+- Bijzonderheden
+- Bovendeel
+- Geschikt voor beroepen
+- Geslacht
+- Gewicht (gram)
+- Kleur
+- Loopzool
+- Maten
+- Model schoeisel
+- Naam (omschrijving)
+- Sluiting
+- Tussenzool
+- Type neus
+- Bijzonderheden zool
+- Veiligheidsklasse
+- Voering
+
+Als een eigenschap niet gevonden kan worden, geef "None" als antwoord.
+Geef je antwoord in JSON formattering met de eigenschap namen als sleutel, en de gevonden tekst als waarde: 
+
+{
+    "eigenschap_naam_1": "waarde_1",
+    "eigenschap_naam_2": "waarde_2",
+    ...
+}
+
+Hier is de product informatie:
+Serienummer: 34012

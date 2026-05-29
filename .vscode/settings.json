@@ -1,0 +1,10 @@
+{
+    "files.exclude": {
+        "**.code-workspace": true,
+        "**/__*": true,
+        "**/*:Zone.Identifier": true,
+        "/usr/lib/python3.10": true,
+        ".second_linux": true,
+        ".vscode": true
+    }
+}

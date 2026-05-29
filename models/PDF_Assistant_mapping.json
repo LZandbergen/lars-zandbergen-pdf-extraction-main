@@ -1,0 +1,47 @@
+{
+    "/home/lzandbergen/Squadra/lars-zandbergen-pdf-extraction/data/allshoes_catalogus/pdfs/allshoes_catalogus.pdf_gpt-4o-mini": {
+        "assistant_id": "asst_YIAbvsnAKMOswXt5WcymhLb3",
+        "vector_store_id": "vs_TGKf8tbPgrRUNUv2Y7xIRCTu",
+        "message_file_id": "file-LUxT74Dj7pl0VgjwyaEWvL5b",
+        "vector_store_file_ids": [
+            "file-p0MsuwU4FQCutkLB1ch8gAWy"
+        ],
+        "assistant_file_id": "file-LUxT74Dj7pl0VgjwyaEWvL5b"
+    },
+    "/home/lzandbergen/Squadra/lars-zandbergen-pdf-extraction/data/allshoes_catalogus/pdfs/allshoes_catalogus.pdf_gpt-4o": {
+        "assistant_id": "asst_t2Vg4Od4h94QNQVPTyMBYIaU",
+        "vector_store_id": "vs_qTWh92JYSA29Bn6WOWdUxwAl",
+        "message_file_id": "file-5K4Qqnbkseifw7evGPohqxm9",
+        "vector_store_file_ids": [
+            "file-sBqOIAGKdmZGyvvyApACc8qu"
+        ],
+        "assistant_file_id": "file-5K4Qqnbkseifw7evGPohqxm9"
+    },
+    "/vol/csedu-nobackup/project/lzandbergen-storage/lars-zandbergen-pdf-extraction/data/allshoes_catalogus/pdfs/allshoes_catalogus.pdf_gpt-4o-mini": {
+        "assistant_id": "asst_z9OuStqvicMcF9udtsOIuvwM",
+        "vector_store_id": "vs_EXpQRef7G0n4KJXMvYVosmmx",
+        "message_file_id": "file-WPgZdi8trE4bDB1BrkTuP5",
+        "vector_store_file_ids": [
+            "file-9Mdbai3646Jqq93PRMQLsQ"
+        ],
+        "assistant_file_id": "file-WPgZdi8trE4bDB1BrkTuP5"
+    },
+    "/vol/csedu-nobackup/project/lzandbergen-storage/lars-zandbergen-pdf-extraction/data/allshoes_catalogus/pdfs/allshoes_catalogus.pdf_gpt-4o": {
+        "assistant_id": "asst_no8M2TjQDnrrbDpmj8A3E9EB",
+        "vector_store_id": "vs_uDr2eIvaxa9VKjEizHdhCqKO",
+        "message_file_id": "file-XSRzWousU2FFy6Touew66p",
+        "vector_store_file_ids": [
+            "file-6vdA2M4RATGR68hPYYABja"
+        ],
+        "assistant_file_id": "file-XSRzWousU2FFy6Touew66p"
+    },
+    "/vol/csedu-nobackup/project/lzandbergen-storage/lars-zandbergen-pdf-extraction/data/allshoes_catalogus/pdfs/unfairly_trimmed_allshoes_catalogus.pdf_gpt-4o": {
+        "assistant_id": "asst_zU2upTj6I7kX6nBY4CMKOAKk",
+        "vector_store_id": "vs_U5qgu0RtZzEAFgnYJYyNzdwQ",
+        "message_file_id": "file-3eLbuHiP7ZsepQ1X4Sk1Wf",
+        "vector_store_file_ids": [
+            "file-17Qs8U3AWkyaXsYG6k7uTy"
+        ],
+        "assistant_file_id": "file-3eLbuHiP7ZsepQ1X4Sk1Wf"
+    }
+}

@@ -1,0 +1,32 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"python.terminal.activateEnvInCurrentTerminal": true,
+		"python.terminal.activateEnvironment": true,
+		"code-runner.runInTerminal": true,
+		"npm.exclude": "",
+		"editor.rulers": [125],
+		"explorer.excludeGitIgnore": false,
+		"python.languageServer": "Default",
+		"window.title": "${dirty}${activeEditorShort}${separator}${rootName}${separator}${profileName}${separator}${appName}",
+		"python.analysis.exclude": [
+			"/usr/lib/python3.10/",
+			".linux/",
+			"data/",
+			"models/"
+		],
+		"files.exclude": {
+			"/usr/lib/python3.10": true
+		}
+		"search.exclude": {
+			"**/node_modules": true,
+			"**/bower_components": true,
+			"**/*.code-search": true.
+			"models/": true,
+		}
+	}
+}

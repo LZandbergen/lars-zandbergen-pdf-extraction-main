@@ -1,0 +1,17 @@
+*:Zone.Identifier
+.*
+!.vscode/
+!.gitignore
+cache/
+data/allshoes_catalogus/*/
+data/MAVE/*/
+data/bol/*/
+data/OA-mine/*
+data/AZ-dataset/*
+docs/
+logs/
+models/*/
+output/
+__pycache__/
+wandb/
+latex/*

@@ -1,0 +1,3432 @@
+{
+    "EC000041": {
+        "class_name": "Auxiliary contact block",
+        "features": {
+            "EF008257": {
+                "feature_name": "Number of contacts as change-over contact",
+                "values": {}
+            },
+            "EF000003": {
+                "feature_name": "Mounting method",
+                "values": {
+                    "Front fastening": "EV003964",
+                    "Surface mounting": "EV000945",
+                    "Bottom side": "EV008721",
+                    "Side mounting": "EV003965",
+                    "Floor fastening": "EV009177",
+                    "Built-in": "EV000134",
+                    "Other": "EV000154"
+                }
+            },
+            "EF008256": {
+                "feature_name": "Number of contacts as normally open contact",
+                "values": {}
+            },
+            "EF000010": {
+                "feature_name": "Model",
+                "values": {
+                    "90°-elbow": "EV005918",
+                    "High": "EV003619",
+                    "Other": "EV000154",
+                    "Top mounting and integrable": "EV009153",
+                    "Raised": "EV008404",
+                    "Integrable": "EV003966",
+                    "Straight": "EV000164",
+                    "45°-elbow": "EV005917",
+                    "Top mounting": "EV000544",
+                    "Flat": "EV000880"
+                }
+            },
+            "EF003961": {
+                "feature_name": "Type of electric connection",
+                "values": {
+                    "PCB connection": "EV003963",
+                    "Screw connection": "EV000415",
+                    "Cable": "EV000136",
+                    "Soldering flag connection": "EV005756",
+                    "Other": "EV000154",
+                    "Spring clamp connection": "EV005752",
+                    "With cable preassembled": "EV009340",
+                    "Flat plug-in connection": "EV003968",
+                    "Cable connection, cable not included": "EV011482"
+                }
+            },
+            "EF008255": {
+                "feature_name": "Number of contacts as normally closed contact",
+                "values": {}
+            },
+            "EF007613": {
+                "feature_name": "Number of fault-signal switches",
+                "values": {}
+            },
+            "EF001385": {
+                "feature_name": "Rated operation current Ie at AC-15, 230 V",
+                "values": {}
+            },
+            "EF000048": {
+                "feature_name": "Lamp holder",
+                "values": {
+                    "T4.6": "EV006878",
+                    "LED not exchangeable": "EV011515",
+                    "None": "EV000494",
+                    "BA9d": "EV010315",
+                    "Other": "EV000154",
+                    "E10": "EV000096",
+                    "BA9s": "EV000372",
+                    "Wedge Base W 2x4.6d": "EV003972",
+                    "T1 3/4 MG": "EV008515",
+                    "T5.5": "EV008518",
+                    "BA15d": "EV000266",
+                    "T6.8": "EV006880"
+                }
+            }
+        }
+    },
+    "EC000200": {
+        "class_name": "Enclosure for control circuit devices",
+        "features": {
+            "EF005474": {
+                "feature_name": "Degree of protection (IP)",
+                "values": {
+                    "IP41": "EV006416",
+                    "IP52": "EV006613",
+                    "Other": "EV000154",
+                    "IP53": "EV006614",
+                    "IP55": "EV006420",
+                    "IP65/IP67": "EV008925",
+                    "IP34": "EV006413",
+                    "IP10": "EV006606",
+                    "IP43": "EV006610",
+                    "IP65": "EV006421",
+                    "IP42": "EV006417",
+                    "IP3X": "EV006414",
+                    "IP22": "EV006608",
+                    "IP67/IP69K": "EV013221",
+                    "IP64": "EV006618",
+                    "IP20": "EV006405",
+                    "IP68": "EV006619",
+                    "IP67": "EV006423",
+                    "IP12": "EV006607",
+                    "IP44": "EV006418",
+                    "IP50": "EV006612",
+                    "IP57": "EV006616",
+                    "IP2X": "EV006409",
+                    "IP67K": "EV009289",
+                    "IP40": "EV006415",
+                    "IP45": "EV006611",
+                    "IPX4": "EV006621",
+                    "IP56": "EV006615",
+                    "IP69K": "EV009290",
+                    "IP00": "EV006404",
+                    "IPX0": "EV006620",
+                    "IP24": "EV006408",
+                    "IP66": "EV006422",
+                    "IP30": "EV006410",
+                    "IP54": "EV006419",
+                    "IP23": "EV006407",
+                    "IP32": "EV006412",
+                    "IPX7": "EV006622",
+                    "IP58": "EV006617",
+                    "IP31": "EV006411",
+                    "IP21": "EV006406",
+                    "IP33": "EV006609"
+                }
+            },
+            "EF000040": {
+                "feature_name": "Height",
+                "values": {}
+            },
+            "EF004008": {
+                "feature_name": "Construction type housing",
+                "values": {
+                    "Installation housing": "EV003202",
+                    "Surface mounting housing": "EV003985"
+                }
+            },
+            "EF000243": {
+                "feature_name": "Diameter openings",
+                "values": {}
+            },
+            "EF001373": {
+                "feature_name": "Colour housing cover",
+                "values": {
+                    "Zinc": "EV006723",
+                    "Other": "EV000154",
+                    "Black": "EV000206",
+                    "Red": "EV000233",
+                    "Blue": "EV000080",
+                    "Yellow": "EV000234",
+                    "Aluminium": "EV000072",
+                    "Grey": "EV000270",
+                    "Stainless steel": "EV000294"
+                }
+            },
+            "EF001372": {
+                "feature_name": "Number of command positions",
+                "values": {}
+            },
+            "EF001596": {
+                "feature_name": "Material housing",
+                "values": {
+                    "Other": "EV000154",
+                    "Plastic": "EV000139",
+                    "Metal": "EV000914",
+                    "Steel": "EV000179",
+                    "Stainless steel": "EV000294",
+                    "Aluminium": "EV000072",
+                    "Zinc": "EV006723"
+                }
+            },
+            "EF000049": {
+                "feature_name": "Depth",
+                "values": {}
+            },
+            "EF011959": {
+                "feature_name": "Degree of protection (NEMA)",
+                "values": {
+                    "Other": "EV000154",
+                    "4X, 13": "EV018187",
+                    "12": "EV007990",
+                    "4": "EV000070",
+                    "13": "EV022254",
+                    "3": "EV000069",
+                    "1": "EV000599",
+                    "2": "EV000600",
+                    "3R": "EV014035",
+                    "4X": "EV014040"
+                }
+            },
+            "EF000008": {
+                "feature_name": "Width",
+                "values": {}
+            },
+            "EF024143": {
+                "feature_name": "Housing material quality",
+                "values": {
+                    "Polyester": "EV000819",
+                    "GRP (Glass fiber reinforced plastic)": "EV006904",
+                    "Other": "EV000154",
+                    "ABS": "EV020080"
+                }
+            }
+        }
+    },
+    "EC000204": {
+        "class_name": "Lamp holder block for control circuit devices",
+        "features": {
+            "EF001400": {
+                "feature_name": "With integrated diode",
+                "values": {
+                    "False": "",
+                    "True": ""
+                }
+            },
+            "EF008242": {
+                "feature_name": "Voltage type for actuating",
+                "values": {
+                    "AC": "EV000460",
+                    "AC/DC": "EV000509",
+                    "DC": "EV000461"
+                }
+            },
+            "EF007029": {
+                "feature_name": "Rated voltage Ue at AC 50 Hz",
+                "values": {}
+            },
+            "EF002442": {
+                "feature_name": "Type of fastening",
+                "values": {
+                    "Front fastening": "EV003964",
+                    "Other": "EV000154",
+                    "Floor fastening": "EV009177"
+                }
+            },
+            "EF001402": {
+                "feature_name": "Colour lamp",
+                "values": {
+                    "Other": "EV000154",
+                    "Multi-coloured": "EV003822",
+                    "Yellow": "EV000234",
+                    "White": "EV000202",
+                    "Red": "EV000233",
+                    "Colourless": "EV013082",
+                    "Orange": "EV000236",
+                    "Blue": "EV000080",
+                    "Green": "EV000235"
+                }
+            },
+            "EF001358": {
+                "feature_name": "Transformer integrated",
+                "values": {
+                    "True": "",
+                    "False": ""
+                }
+            },
+            "EF002423": {
+                "feature_name": "Lamp type",
+                "values": {
+                    "Glow lamp": "EV002125",
+                    "Neon lamp": "EV003973",
+                    "LED": "EV000432",
+                    "Incandescent lamp": "EV000240",
+                    "Other": "EV000154"
+                }
+            },
+            "EF007030": {
+                "feature_name": "Rated voltage Ue at AC 60 Hz",
+                "values": {}
+            },
+            "EF005905": {
+                "feature_name": "With light source",
+                "values": {
+                    "False": "",
+                    "True": ""
+                }
+            },
+            "EF006820": {
+                "feature_name": "Connection type auxiliary circuit",
+                "values": {
+                    "Spring clamp connection": "EV005752",
+                    "Screw connection": "EV000415",
+                    "Other": "EV000154",
+                    "Soldering flag connection": "EV005756",
+                    "Flat plug-in connection": "EV003968",
+                    "PCB connection": "EV003963"
+                }
+            },
+            "EF007031": {
+                "feature_name": "Rated voltage Ue at DC",
+                "values": {}
+            },
+            "EF000048": {
+                "feature_name": "Lamp holder",
+                "values": {
+                    "T4.6": "EV006878",
+                    "LED not exchangeable": "EV011515",
+                    "None": "EV000494",
+                    "BA9d": "EV010315",
+                    "Other": "EV000154",
+                    "E10": "EV000096",
+                    "BA9s": "EV000372",
+                    "Wedge Base W 2x4.6d": "EV003972",
+                    "T1 3/4 MG": "EV008515",
+                    "T5.5": "EV008518",
+                    "BA15d": "EV000266",
+                    "T6.8": "EV006880"
+                }
+            },
+            "EF001399": {
+                "feature_name": "With integrated voltage decreasing resistor",
+                "values": {
+                    "True": "",
+                    "False": ""
+                }
+            }
+        }
+    },
+    "EC000221": {
+        "class_name": "Front element for push button",
+        "features": {
+            "EF001142": {
+                "feature_name": "Suitable for illumination",
+                "values": {
+                    "False": "",
+                    "True": ""
+                }
+            },
+            "EF007447": {
+                "feature_name": "Switching function latching",
+                "values": {
+                    "True": "",
+                    "False": ""
+                }
+            },
+            "EF005972": {
+                "feature_name": "Material front ring",
+                "values": {
+                    "Plastic": "EV000139",
+                    "Metal": "EV000914",
+                    "Other": "EV000154"
+                }
+            },
+            "EF011961": {
+                "feature_name": "Degree of protection (NEMA), front side",
+                "values": {
+                    "13": "EV022254",
+                    "4X": "EV014040",
+                    "Other": "EV000154",
+                    "4": "EV000070",
+                    "12": "EV007990",
+                    "1": "EV000599",
+                    "3R": "EV014035",
+                    "4X, 13": "EV018187"
+                }
+            },
+            "EF004565": {
+                "feature_name": "Width opening",
+                "values": {}
+            },
+            "EF005500": {
+                "feature_name": "With protective cover",
+                "values": {
+                    "False": "",
+                    "True": ""
+                }
+            },
+            "EF003118": {
+                "feature_name": "Degree of protection (IP), front side",
+                "values": {
+                    "IP20": "EV006405",
+                    "IP30": "EV006410",
+                    "IP68": "EV006619",
+                    "IPX4": "EV006621",
+                    "IP54": "EV006419",
+                    "IP65/IP67": "EV008925",
+                    "IP53": "EV006614",
+                    "IP67K": "EV009289",
+                    "IP64": "EV006618",
+                    "IP21": "EV006406",
+                    "IP24": "EV006408",
+                    "IP45": "EV006611",
+                    "IP66": "EV006422",
+                    "IP00": "EV006404",
+                    "IP56": "EV006615",
+                    "IP57": "EV006616",
+                    "IP3X": "EV006414",
+                    "IP65": "EV006421",
+                    "IP55": "EV006420",
+                    "IPX0": "EV006620",
+                    "IP44": "EV006418",
+                    "IP43": "EV006610",
+                    "IP40": "EV006415",
+                    "IP69K": "EV009290",
+                    "IP34": "EV006413",
+                    "IP22": "EV006608",
+                    "IP42": "EV006417",
+                    "Other": "EV000154",
+                    "IP33": "EV006609",
+                    "IP2X": "EV006409",
+                    "IP67": "EV006423",
+                    "IP58": "EV006617",
+                    "IP12": "EV006607",
+                    "IPX7": "EV006622",
+                    "IP32": "EV006412",
+                    "IP23": "EV006407",
+                    "IP41": "EV006416",
+                    "IP50": "EV006612",
+                    "IP10": "EV006606",
+                    "IP67/IP69K": "EV013221",
+                    "IP52": "EV006613",
+                    "IP31": "EV006411"
+                }
+            },
+            "EF000079": {
+                "feature_name": "Hole diameter",
+                "values": {}
+            },
+            "EF004778": {
+                "feature_name": "Height opening",
+                "values": {}
+            },
+            "EF001372": {
+                "feature_name": "Number of command positions",
+                "values": {}
+            },
+            "EF000190": {
+                "feature_name": "Colour button",
+                "values": {
+                    "Yellow": "EV000234",
+                    "Red/black": "EV022325",
+                    "Red/white": "EV023669",
+                    "Black/white/red": "EV011604",
+                    "Black": "EV000206",
+                    "Orange": "EV000236",
+                    "Purple": "EV003609",
+                    "White": "EV000202",
+                    "Red/green": "EV008843",
+                    "Black/white": "EV000711",
+                    "Without button plate": "EV003984",
+                    "Blue": "EV000080",
+                    "Colourless": "EV013082",
+                    "Green": "EV000235",
+                    "Silver": "EV000205",
+                    "Red": "EV000233",
+                    "Set with several colours": "EV009397",
+                    "Other": "EV000154",
+                    "Grey": "EV000270"
+                }
+            },
+            "EF001407": {
+                "feature_name": "Spring-return",
+                "values": {
+                    "True": "",
+                    "False": ""
+                }
+            },
+            "EF006253": {
+                "feature_name": "Construction type lens",
+                "values": {
+                    "Round": "EV000167",
+                    "Oval": "EV000396",
+                    "Rectangular": "EV000220",
+                    "Other": "EV000154",
+                    "Square": "EV000382"
+                }
+            },
+            "EF001537": {
+                "feature_name": "Labelled",
+                "values": {
+                    "False": "",
+                    "True": ""
+                }
+            },
+            "EF001546": {
+                "feature_name": "Type of button",
+                "values": {
+                    "Flat": "EV000880",
+                    "Other": "EV000154",
+                    "Mushroom": "EV000280",
+                    "High": "EV003619",
+                    "Combination": "EV005418"
+                }
+            },
+            "EF002429": {
+                "feature_name": "Colour front ring",
+                "values": {
+                    "Yellow": "EV000234",
+                    "Titanium": "EV000300",
+                    "Aluminium": "EV000072",
+                    "Chrome": "EV000291",
+                    "Other": "EV000154",
+                    "Black": "EV000206",
+                    "Grey": "EV000270",
+                    "Stainless steel": "EV000294"
+                }
+            },
+            "EF006014": {
+                "feature_name": "With front ring",
+                "values": {
+                    "True": "",
+                    "False": ""
+                }
+            }
+        }
+    },
+    "EC000222": {
+        "class_name": "Front element for selector switch",
+        "features": {
+            "EF006014": {
+                "feature_name": "With front ring",
+                "values": {
+                    "True": "",
+                    "False": ""
+                }
+            },
+            "EF007167": {
+                "feature_name": "Colour control element",
+                "values": {
+                    "Other": "EV000154",
+                    "Black/white": "EV000711",
+                    "Green": "EV000235",
+                    "Black": "EV000206",
+                    "Purple": "EV003609",
+                    "White": "EV000202",
+                    "Silver": "EV000205",
+                    "Red": "EV000233",
+                    "Yellow": "EV000234",
+                    "Orange": "EV000236",
+                    "Blue": "EV000080",
+                    "Colourless": "EV013082"
+                }
+            },
+            "EF011959": {
+                "feature_name": "Degree of protection (NEMA)",
+                "values": {
+                    "Other": "EV000154",
+                    "4X, 13": "EV018187",
+                    "12": "EV007990",
+                    "4": "EV000070",
+                    "13": "EV022254",
+                    "3": "EV000069",
+                    "1": "EV000599",
+                    "2": "EV000600",
+                    "3R": "EV014035",
+                    "4X": "EV014040"
+                }
+            },
+            "EF004565": {
+                "feature_name": "Width opening",
+                "values": {}
+            },
+            "EF006976": {
+                "feature_name": "Type of control element",
+                "values": {
+                    "Rocker lever": "EV001252",
+                    "Rocker": "EV000200",
+                    "Turn button": "EV000092",
+                    "Key": "EV000175",
+                    "Toggle": "EV000421",
+                    "Other": "EV000154",
+                    "Short thumb-grip": "EV004094",
+                    "Long turning handle": "EV004095",
+                    "Push button": "EV000554"
+                }
+            },
+            "EF000231": {
+                "feature_name": "Number of switch positions",
+                "values": {}
+            },
+            "EF002429": {
+                "feature_name": "Colour front ring",
+                "values": {
+                    "Yellow": "EV000234",
+                    "Titanium": "EV000300",
+                    "Aluminium": "EV000072",
+                    "Chrome": "EV000291",
+                    "Other": "EV000154",
+                    "Black": "EV000206",
+                    "Grey": "EV000270",
+                    "Stainless steel": "EV000294"
+                }
+            },
+            "EF007165": {
+                "feature_name": "Colour indicator light cap",
+                "values": {
+                    "Yellow": "EV000234",
+                    "Blue": "EV000080",
+                    "Purple": "EV003609",
+                    "Colourless": "EV013082",
+                    "White": "EV000202",
+                    "Orange": "EV000236",
+                    "Green": "EV000235",
+                    "Other": "EV000154",
+                    "Red": "EV000233"
+                }
+            },
+            "EF003118": {
+                "feature_name": "Degree of protection (IP), front side",
+                "values": {
+                    "IP20": "EV006405",
+                    "IP30": "EV006410",
+                    "IP68": "EV006619",
+                    "IPX4": "EV006621",
+                    "IP54": "EV006419",
+                    "IP65/IP67": "EV008925",
+                    "IP53": "EV006614",
+                    "IP67K": "EV009289",
+                    "IP64": "EV006618",
+                    "IP21": "EV006406",
+                    "IP24": "EV006408",
+                    "IP45": "EV006611",
+                    "IP66": "EV006422",
+                    "IP00": "EV006404",
+                    "IP56": "EV006615",
+                    "IP57": "EV006616",
+                    "IP3X": "EV006414",
+                    "IP65": "EV006421",
+                    "IP55": "EV006420",
+                    "IPX0": "EV006620",
+                    "IP44": "EV006418",
+                    "IP43": "EV006610",
+                    "IP40": "EV006415",
+                    "IP69K": "EV009290",
+                    "IP34": "EV006413",
+                    "IP22": "EV006608",
+                    "IP42": "EV006417",
+                    "Other": "EV000154",
+                    "IP33": "EV006609",
+                    "IP2X": "EV006409",
+                    "IP67": "EV006423",
+                    "IP58": "EV006617",
+                    "IP12": "EV006607",
+                    "IPX7": "EV006622",
+                    "IP32": "EV006412",
+                    "IP23": "EV006407",
+                    "IP41": "EV006416",
+                    "IP50": "EV006612",
+                    "IP10": "EV006606",
+                    "IP67/IP69K": "EV013221",
+                    "IP52": "EV006613",
+                    "IP31": "EV006411"
+                }
+            },
+            "EF007447": {
+                "feature_name": "Switching function latching",
+                "values": {
+                    "True": "",
+                    "False": ""
+                }
+            },
+            "EF004778": {
+                "feature_name": "Height opening",
+                "values": {}
+            },
+            "EF005972": {
+                "feature_name": "Material front ring",
+                "values": {
+                    "Plastic": "EV000139",
+                    "Metal": "EV000914",
+                    "Other": "EV000154"
+                }
+            },
+            "EF001142": {
+                "feature_name": "Suitable for illumination",
+                "values": {
+                    "False": "",
+                    "True": ""
+                }
+            },
+            "EF001407": {
+                "feature_name": "Spring-return",
+                "values": {
+                    "True": "",
+                    "False": ""
+                }
+            },
+            "EF006253": {
+                "feature_name": "Construction type lens",
+                "values": {
+                    "Round": "EV000167",
+                    "Oval": "EV000396",
+                    "Rectangular": "EV000220",
+                    "Other": "EV000154",
+                    "Square": "EV000382"
+                }
+            },
+            "EF000079": {
+                "feature_name": "Hole diameter",
+                "values": {}
+            }
+        }
+    },
+    "EC000223": {
+        "class_name": "Front element for indicator light",
+        "features": {
+            "EF000207": {
+                "feature_name": "Colour lens",
+                "values": {
+                    "White": "EV000202",
+                    "Yellow": "EV000234",
+                    "Other": "EV000154",
+                    "Orange": "EV000236",
+                    "Red": "EV000233",
+                    "Grey": "EV000270",
+                    "Colourless": "EV013082",
+                    "Green": "EV000235",
+                    "Purple": "EV003609",
+                    "Without hood": "EV005136",
+                    "Black": "EV000206",
+                    "Set with several colours": "EV009397",
+                    "Blue": "EV000080"
+                }
+            },
+            "EF006669": {
+                "feature_name": "Suitable for number of built-in signal lights",
+                "values": {}
+            },
+            "EF004778": {
+                "feature_name": "Height opening",
+                "values": {}
+            },
+            "EF004565": {
+                "feature_name": "Width opening",
+                "values": {}
+            },
+            "EF008343": {
+                "feature_name": "Type of lens",
+                "values": {
+                    "Flat": "EV000880",
+                    "High": "EV003619"
+                }
+            },
+            "EF002429": {
+                "feature_name": "Colour front ring",
+                "values": {
+                    "Yellow": "EV000234",
+                    "Titanium": "EV000300",
+                    "Aluminium": "EV000072",
+                    "Chrome": "EV000291",
+                    "Other": "EV000154",
+                    "Black": "EV000206",
+                    "Grey": "EV000270",
+                    "Stainless steel": "EV000294"
+                }
+            },
+            "EF000079": {
+                "feature_name": "Hole diameter",
+                "values": {}
+            },
+            "EF006014": {
+                "feature_name": "With front ring",
+                "values": {
+                    "True": "",
+                    "False": ""
+                }
+            },
+            "EF011959": {
+                "feature_name": "Degree of protection (NEMA)",
+                "values": {
+                    "Other": "EV000154",
+                    "4X, 13": "EV018187",
+                    "12": "EV007990",
+                    "4": "EV000070",
+                    "13": "EV022254",
+                    "3": "EV000069",
+                    "1": "EV000599",
+                    "2": "EV000600",
+                    "3R": "EV014035",
+                    "4X": "EV014040"
+                }
+            },
+            "EF006253": {
+                "feature_name": "Construction type lens",
+                "values": {
+                    "Round": "EV000167",
+                    "Oval": "EV000396",
+                    "Rectangular": "EV000220",
+                    "Other": "EV000154",
+                    "Square": "EV000382"
+                }
+            },
+            "EF003118": {
+                "feature_name": "Degree of protection (IP), front side",
+                "values": {
+                    "IP20": "EV006405",
+                    "IP30": "EV006410",
+                    "IP68": "EV006619",
+                    "IPX4": "EV006621",
+                    "IP54": "EV006419",
+                    "IP65/IP67": "EV008925",
+                    "IP53": "EV006614",
+                    "IP67K": "EV009289",
+                    "IP64": "EV006618",
+                    "IP21": "EV006406",
+                    "IP24": "EV006408",
+                    "IP45": "EV006611",
+                    "IP66": "EV006422",
+                    "IP00": "EV006404",
+                    "IP56": "EV006615",
+                    "IP57": "EV006616",
+                    "IP3X": "EV006414",
+                    "IP65": "EV006421",
+                    "IP55": "EV006420",
+                    "IPX0": "EV006620",
+                    "IP44": "EV006418",
+                    "IP43": "EV006610",
+                    "IP40": "EV006415",
+                    "IP69K": "EV009290",
+                    "IP34": "EV006413",
+                    "IP22": "EV006608",
+                    "IP42": "EV006417",
+                    "Other": "EV000154",
+                    "IP33": "EV006609",
+                    "IP2X": "EV006409",
+                    "IP67": "EV006423",
+                    "IP58": "EV006617",
+                    "IP12": "EV006607",
+                    "IPX7": "EV006622",
+                    "IP32": "EV006412",
+                    "IP23": "EV006407",
+                    "IP41": "EV006416",
+                    "IP50": "EV006612",
+                    "IP10": "EV006606",
+                    "IP67/IP69K": "EV013221",
+                    "IP52": "EV006613",
+                    "IP31": "EV006411"
+                }
+            },
+            "EF005972": {
+                "feature_name": "Material front ring",
+                "values": {
+                    "Plastic": "EV000139",
+                    "Metal": "EV000914",
+                    "Other": "EV000154"
+                }
+            }
+        }
+    },
+    "EC000225": {
+        "class_name": "Control circuit devices combination in enclosure",
+        "features": {
+            "EF003980": {
+                "feature_name": "Rated control supply voltage Us at DC",
+                "values": {}
+            },
+            "EF001965": {
+                "feature_name": "Number of indicator lights",
+                "values": {}
+            },
+            "EF003979": {
+                "feature_name": "Rated control supply voltage Us at AC 60HZ",
+                "values": {}
+            },
+            "EF008255": {
+                "feature_name": "Number of contacts as normally closed contact",
+                "values": {}
+            },
+            "EF003978": {
+                "feature_name": "Rated control supply voltage Us at AC 50HZ",
+                "values": {}
+            },
+            "EF001372": {
+                "feature_name": "Number of command positions",
+                "values": {}
+            },
+            "EF001596": {
+                "feature_name": "Material housing",
+                "values": {
+                    "Other": "EV000154",
+                    "Plastic": "EV000139",
+                    "Metal": "EV000914",
+                    "Steel": "EV000179",
+                    "Stainless steel": "EV000294",
+                    "Aluminium": "EV000072",
+                    "Zinc": "EV006723"
+                }
+            },
+            "EF005474": {
+                "feature_name": "Degree of protection (IP)",
+                "values": {
+                    "IP41": "EV006416",
+                    "IP52": "EV006613",
+                    "Other": "EV000154",
+                    "IP53": "EV006614",
+                    "IP55": "EV006420",
+                    "IP65/IP67": "EV008925",
+                    "IP34": "EV006413",
+                    "IP10": "EV006606",
+                    "IP43": "EV006610",
+                    "IP65": "EV006421",
+                    "IP42": "EV006417",
+                    "IP3X": "EV006414",
+                    "IP22": "EV006608",
+                    "IP67/IP69K": "EV013221",
+                    "IP64": "EV006618",
+                    "IP20": "EV006405",
+                    "IP68": "EV006619",
+                    "IP67": "EV006423",
+                    "IP12": "EV006607",
+                    "IP44": "EV006418",
+                    "IP50": "EV006612",
+                    "IP57": "EV006616",
+                    "IP2X": "EV006409",
+                    "IP67K": "EV009289",
+                    "IP40": "EV006415",
+                    "IP45": "EV006611",
+                    "IPX4": "EV006621",
+                    "IP56": "EV006615",
+                    "IP69K": "EV009290",
+                    "IP00": "EV006404",
+                    "IPX0": "EV006620",
+                    "IP24": "EV006408",
+                    "IP66": "EV006422",
+                    "IP30": "EV006410",
+                    "IP54": "EV006419",
+                    "IP23": "EV006407",
+                    "IP32": "EV006412",
+                    "IPX7": "EV006622",
+                    "IP58": "EV006617",
+                    "IP31": "EV006411",
+                    "IP21": "EV006406",
+                    "IP33": "EV006609"
+                }
+            },
+            "EF006670": {
+                "feature_name": "Number of mushroom-shaped push-buttons",
+                "values": {}
+            },
+            "EF008256": {
+                "feature_name": "Number of contacts as normally open contact",
+                "values": {}
+            },
+            "EF011959": {
+                "feature_name": "Degree of protection (NEMA)",
+                "values": {
+                    "Other": "EV000154",
+                    "4X, 13": "EV018187",
+                    "12": "EV007990",
+                    "4": "EV000070",
+                    "13": "EV022254",
+                    "3": "EV000069",
+                    "1": "EV000599",
+                    "2": "EV000600",
+                    "3R": "EV014035",
+                    "4X": "EV014040"
+                }
+            },
+            "EF005590": {
+                "feature_name": "Number of key switches",
+                "values": {}
+            },
+            "EF008257": {
+                "feature_name": "Number of contacts as change-over contact",
+                "values": {}
+            },
+            "EF005567": {
+                "feature_name": "Number of selector switches",
+                "values": {}
+            },
+            "EF001433": {
+                "feature_name": "Suitable for emergency stop",
+                "values": {
+                    "True": "",
+                    "False": ""
+                }
+            },
+            "EF001373": {
+                "feature_name": "Colour housing cover",
+                "values": {
+                    "Zinc": "EV006723",
+                    "Other": "EV000154",
+                    "Black": "EV000206",
+                    "Red": "EV000233",
+                    "Blue": "EV000080",
+                    "Yellow": "EV000234",
+                    "Aluminium": "EV000072",
+                    "Grey": "EV000270",
+                    "Stainless steel": "EV000294"
+                }
+            },
+            "EF005558": {
+                "feature_name": "Number of push buttons",
+                "values": {}
+            }
+        }
+    },
+    "EC000272": {
+        "class_name": "Indicator light complete",
+        "features": {
+            "EF002429": {
+                "feature_name": "Colour front ring",
+                "values": {
+                    "Yellow": "EV000234",
+                    "Titanium": "EV000300",
+                    "Aluminium": "EV000072",
+                    "Chrome": "EV000291",
+                    "Other": "EV000154",
+                    "Black": "EV000206",
+                    "Grey": "EV000270",
+                    "Stainless steel": "EV000294"
+                }
+            },
+            "EF005972": {
+                "feature_name": "Material front ring",
+                "values": {
+                    "Plastic": "EV000139",
+                    "Metal": "EV000914",
+                    "Other": "EV000154"
+                }
+            },
+            "EF005474": {
+                "feature_name": "Degree of protection (IP)",
+                "values": {
+                    "IP41": "EV006416",
+                    "IP52": "EV006613",
+                    "Other": "EV000154",
+                    "IP53": "EV006614",
+                    "IP55": "EV006420",
+                    "IP65/IP67": "EV008925",
+                    "IP34": "EV006413",
+                    "IP10": "EV006606",
+                    "IP43": "EV006610",
+                    "IP65": "EV006421",
+                    "IP42": "EV006417",
+                    "IP3X": "EV006414",
+                    "IP22": "EV006608",
+                    "IP67/IP69K": "EV013221",
+                    "IP64": "EV006618",
+                    "IP20": "EV006405",
+                    "IP68": "EV006619",
+                    "IP67": "EV006423",
+                    "IP12": "EV006607",
+                    "IP44": "EV006418",
+                    "IP50": "EV006612",
+                    "IP57": "EV006616",
+                    "IP2X": "EV006409",
+                    "IP67K": "EV009289",
+                    "IP40": "EV006415",
+                    "IP45": "EV006611",
+                    "IPX4": "EV006621",
+                    "IP56": "EV006615",
+                    "IP69K": "EV009290",
+                    "IP00": "EV006404",
+                    "IPX0": "EV006620",
+                    "IP24": "EV006408",
+                    "IP66": "EV006422",
+                    "IP30": "EV006410",
+                    "IP54": "EV006419",
+                    "IP23": "EV006407",
+                    "IP32": "EV006412",
+                    "IPX7": "EV006622",
+                    "IP58": "EV006617",
+                    "IP31": "EV006411",
+                    "IP21": "EV006406",
+                    "IP33": "EV006609"
+                }
+            },
+            "EF008343": {
+                "feature_name": "Type of lens",
+                "values": {
+                    "Flat": "EV000880",
+                    "High": "EV003619"
+                }
+            },
+            "EF000187": {
+                "feature_name": "Voltage type",
+                "values": {
+                    "DC": "EV000461",
+                    "AC": "EV000460",
+                    "AC/DC": "EV000509"
+                }
+            },
+            "EF005905": {
+                "feature_name": "With light source",
+                "values": {
+                    "False": "",
+                    "True": ""
+                }
+            },
+            "EF001965": {
+                "feature_name": "Number of indicator lights",
+                "values": {}
+            },
+            "EF000207": {
+                "feature_name": "Colour lens",
+                "values": {
+                    "White": "EV000202",
+                    "Yellow": "EV000234",
+                    "Other": "EV000154",
+                    "Orange": "EV000236",
+                    "Red": "EV000233",
+                    "Grey": "EV000270",
+                    "Colourless": "EV013082",
+                    "Green": "EV000235",
+                    "Purple": "EV003609",
+                    "Without hood": "EV005136",
+                    "Black": "EV000206",
+                    "Set with several colours": "EV009397",
+                    "Blue": "EV000080"
+                }
+            },
+            "EF008229": {
+                "feature_name": "Type of lamp socket",
+                "values": {
+                    "Wedge-Base": "EV009510",
+                    "W2 x 4.6": "EV009507",
+                    "BA15s": "EV005087",
+                    "BA9s": "EV000372",
+                    "Other": "EV000154",
+                    "E10": "EV000096",
+                    "BA15d": "EV000266",
+                    "LED": "EV000432"
+                }
+            },
+            "EF002418": {
+                "feature_name": "Rated operating voltage Ue",
+                "values": {}
+            },
+            "EF000079": {
+                "feature_name": "Hole diameter",
+                "values": {}
+            },
+            "EF011959": {
+                "feature_name": "Degree of protection (NEMA)",
+                "values": {
+                    "Other": "EV000154",
+                    "4X, 13": "EV018187",
+                    "12": "EV007990",
+                    "4": "EV000070",
+                    "13": "EV022254",
+                    "3": "EV000069",
+                    "1": "EV000599",
+                    "2": "EV000600",
+                    "3R": "EV014035",
+                    "4X": "EV014040"
+                }
+            },
+            "EF003961": {
+                "feature_name": "Type of electric connection",
+                "values": {
+                    "PCB connection": "EV003963",
+                    "Screw connection": "EV000415",
+                    "Cable": "EV000136",
+                    "Soldering flag connection": "EV005756",
+                    "Other": "EV000154",
+                    "Spring clamp connection": "EV005752",
+                    "With cable preassembled": "EV009340",
+                    "Flat plug-in connection": "EV003968",
+                    "Cable connection, cable not included": "EV011482"
+                }
+            },
+            "EF006014": {
+                "feature_name": "With front ring",
+                "values": {
+                    "True": "",
+                    "False": ""
+                }
+            },
+            "EF004565": {
+                "feature_name": "Width opening",
+                "values": {}
+            },
+            "EF006253": {
+                "feature_name": "Construction type lens",
+                "values": {
+                    "Round": "EV000167",
+                    "Oval": "EV000396",
+                    "Rectangular": "EV000220",
+                    "Other": "EV000154",
+                    "Square": "EV000382"
+                }
+            },
+            "EF004778": {
+                "feature_name": "Height opening",
+                "values": {}
+            }
+        }
+    },
+    "EC000399": {
+        "class_name": "Indication- and signalling lamp",
+        "features": {
+            "EF011586": {
+                "feature_name": "Lamp power",
+                "values": {}
+            },
+            "EF000369": {
+                "feature_name": "Total length",
+                "values": {}
+            },
+            "EF000078": {
+                "feature_name": "Luminous flux",
+                "values": {}
+            },
+            "EF001360": {
+                "feature_name": "Lamp shape",
+                "values": {
+                    "Pear-shape": "EV004957",
+                    "Lens-shape": "EV004970",
+                    "Tube, double-ended": "EV004938",
+                    "Tube, single-ended": "EV003591",
+                    "Round/globe": "EV002205",
+                    "Reflector": "EV000278",
+                    "Other": "EV000154",
+                    "Olive-shape": "EV004972",
+                    "Candle": "EV000616"
+                }
+            },
+            "EF000042": {
+                "feature_name": "Socket",
+                "values": {
+                    "S5.5": "EV014587",
+                    "BA7s": "EV003440",
+                    "Neo-wedge": "EV010400",
+                    "SX3s": "EV014592",
+                    "T6.8": "EV006880",
+                    "PSB": "EV010434",
+                    "BA20d": "EV003599",
+                    "TS3": "EV014597",
+                    "F9": "EV004222",
+                    "EP10": "EV003270",
+                    "G2.54": "EV014580",
+                    "T6.0": "EV014594",
+                    "T6.8K": "EV010468",
+                    "SF6": "EV010451",
+                    "T5.5K": "EV006879",
+                    "S4S/8": "EV014586",
+                    "W2.1x9.5d": "EV004969",
+                    "Cable": "EV000136",
+                    "S5.7": "EV004963",
+                    "E12": "EV003598",
+                    "BA22d": "EV010314",
+                    "S19": "EV011639",
+                    "SM5s": "EV014590",
+                    "BA15s": "EV005087",
+                    "TS2": "EV014596",
+                    "SM4s/7": "EV014589",
+                    "S7d": "EV014588",
+                    "T6.8G": "EV010467",
+                    "PX13.5s": "EV003412",
+                    "BX22d": "EV010325",
+                    "W2.1x4.9d": "EV014599",
+                    "P13.5": "EV006852",
+                    "E16": "EV010340",
+                    "MM3s/6": "EV014583",
+                    "SV8.5-8": "EV003833",
+                    "SX6s": "EV014593",
+                    "S15": "EV014585",
+                    "G4": "EV000109",
+                    "E5.5": "EV014578",
+                    "Midget grooved": "EV008687",
+                    "PKX22S": "EV010431",
+                    "S8.5": "EV010447",
+                    "TS5": "EV014598",
+                    "SV8.5": "EV014591",
+                    "T5.5": "EV008518",
+                    "E10": "EV000096",
+                    "Festoon": "EV010352",
+                    "E14/17": "EV010339",
+                    "Bi-pin": "EV010323",
+                    "E5/8": "EV010345",
+                    "MP screw terminal": "EV014584",
+                    "G1.27": "EV014579",
+                    "W2x4.6d": "EV000627",
+                    "BA10s": "EV011907",
+                    "T4.5": "EV008516",
+                    "E5": "EV010344",
+                    "E14s": "EV014577",
+                    "Thread end": "EV003730",
+                    "Other": "EV000154",
+                    "S7": "EV010446",
+                    "E17": "EV010341",
+                    "MG 5.7s/9": "EV010641",
+                    "BA15d": "EV000266",
+                    "BA9s": "EV000372",
+                    "E14": "EV000097",
+                    "T9": "EV014497",
+                    "T1 3/4 MG": "EV008515",
+                    "BX8.5d": "EV010328",
+                    "T6.5": "EV014475",
+                    "ESB": "EV001205",
+                    "TS1": "EV014595",
+                    "P13.5s": "EV000373",
+                    "MF6s/8": "EV014582",
+                    "S6": "EV010445",
+                    "BA5s": "EV008087",
+                    "T6.5F": "EV010466",
+                    "Midget flanged": "EV008686",
+                    "P30d": "EV010416",
+                    "G3.17": "EV014581",
+                    "T4.6": "EV006878"
+                }
+            },
+            "EF002359": {
+                "feature_name": "Suitable for torches",
+                "values": {
+                    "False": "",
+                    "True": ""
+                }
+            },
+            "EF002365": {
+                "feature_name": "Halogen",
+                "values": {
+                    "True": "",
+                    "False": ""
+                }
+            },
+            "EF000007": {
+                "feature_name": "Colour",
+                "values": {
+                    "Colourless": "EV013082",
+                    "Blue": "EV000080",
+                    "Pink": "EV000258",
+                    "Red": "EV000233",
+                    "Other": "EV000154",
+                    "Black": "EV000206",
+                    "Purple": "EV003609",
+                    "Yellow": "EV000234",
+                    "Silver": "EV000205",
+                    "Green": "EV000235",
+                    "Grey": "EV000270",
+                    "White": "EV000202",
+                    "Orange": "EV000236",
+                    "Brass": "EV000149"
+                }
+            },
+            "EF002329": {
+                "feature_name": "Krypton",
+                "values": {
+                    "False": "",
+                    "True": ""
+                }
+            },
+            "EF000551": {
+                "feature_name": "Diameter",
+                "values": {}
+            },
+            "EF000001": {
+                "feature_name": "Nominal current",
+                "values": {}
+            },
+            "EF008342": {
+                "feature_name": "Average nominal lifespan",
+                "values": {}
+            },
+            "EF008331": {
+                "feature_name": "Xenon",
+                "values": {
+                    "True": "",
+                    "False": ""
+                }
+            },
+            "EF012517": {
+                "feature_name": "Suitable for round flashing luminaire",
+                "values": {
+                    "True": "",
+                    "False": ""
+                }
+            },
+            "EF000758": {
+                "feature_name": "Energy efficiency class",
+                "values": {
+                    "A": "EV000896",
+                    "E": "EV000647",
+                    "B": "EV000074",
+                    "G": "EV004701",
+                    "A++": "EV007056",
+                    "D": "EV000413",
+                    "F": "EV000334",
+                    "C": "EV000084",
+                    "A+": "EV007055"
+                }
+            },
+            "EF002360": {
+                "feature_name": "Suitable for pointer",
+                "values": {
+                    "True": "",
+                    "False": ""
+                }
+            },
+            "EF008856": {
+                "feature_name": "Lamp voltage",
+                "values": {}
+            },
+            "EF000103": {
+                "feature_name": "Colour temperature",
+                "values": {}
+            },
+            "EF002370": {
+                "feature_name": "Technology",
+                "values": {
+                    "Other": "EV000154",
+                    "Incandescent lamp": "EV000240",
+                    "LED": "EV000432"
+                }
+            }
+        }
+    },
+    "EC000441": {
+        "class_name": "Cable gland",
+        "features": {
+            "EF000139": {
+                "feature_name": "Surface protection",
+                "values": {
+                    "Other": "EV000154",
+                    "Hot-dip galvanized": "EV000254",
+                    "Galvanic/electrolytic zinc plated": "EV003454",
+                    "Nickel-plated": "EV000191",
+                    "Untreated": "EV006034"
+                }
+            },
+            "EF001217": {
+                "feature_name": "Type of sealing",
+                "values": {
+                    "Diaphragm": "EV003716",
+                    "Blind plug": "EV007147",
+                    "Cut-out ring": "EV003718",
+                    "Sealing ring": "EV009696",
+                    "Membrane": "EV003719"
+                }
+            },
+            "EF000116": {
+                "feature_name": "RAL-number",
+                "values": {}
+            },
+            "EF000881": {
+                "feature_name": "Screened",
+                "values": {
+                    "True": "",
+                    "False": ""
+                }
+            },
+            "EF000025": {
+                "feature_name": "Halogen free",
+                "values": {
+                    "False": "",
+                    "True": ""
+                }
+            },
+            "EF008404": {
+                "feature_name": "For Ex-Zone dust",
+                "values": {
+                    "21, 22": "EV010598",
+                    "22": "EV020009",
+                    "None": "EV000494",
+                    "20, 21, 22": "EV010597"
+                }
+            },
+            "EF005268": {
+                "feature_name": "Hexagon angular dimension",
+                "values": {}
+            },
+            "EF005004": {
+                "feature_name": "Multi seal area",
+                "values": {
+                    "True": "",
+                    "False": ""
+                }
+            },
+            "EF003712": {
+                "feature_name": "Pitch thread",
+                "values": {}
+            },
+            "EF002169": {
+                "feature_name": "Material",
+                "values": {
+                    "Rubber": "EV000169",
+                    "Other": "EV000154",
+                    "Metal": "EV000914",
+                    "Plastic": "EV000139"
+                }
+            },
+            "EF004191": {
+                "feature_name": "Explosion-tested version",
+                "values": {
+                    "False": "",
+                    "True": ""
+                }
+            },
+            "EF005728": {
+                "feature_name": "For Ex-zone gas",
+                "values": {
+                    "0, 1, 2": "EV010595",
+                    "None": "EV000494",
+                    "1, 2": "EV009071",
+                    "2": "EV000600"
+                }
+            },
+            "EF000010": {
+                "feature_name": "Model",
+                "values": {
+                    "90°-elbow": "EV005918",
+                    "High": "EV003619",
+                    "Other": "EV000154",
+                    "Top mounting and integrable": "EV009153",
+                    "Raised": "EV008404",
+                    "Integrable": "EV003966",
+                    "Straight": "EV000164",
+                    "45°-elbow": "EV005917",
+                    "Top mounting": "EV000544",
+                    "Flat": "EV000880"
+                }
+            },
+            "EF000084": {
+                "feature_name": "Shock resistant",
+                "values": {
+                    "True": "",
+                    "False": ""
+                }
+            },
+            "EF007838": {
+                "feature_name": "Nominal thread size inch/gas pipe thread",
+                "values": {
+                    "3 1/2 inch": "EV006893",
+                    "1 inch": "EV003503",
+                    "1 1/2 inch": "EV004593",
+                    "3/8 inch": "EV003501",
+                    "1 1/8 inch": "EV021139",
+                    "2 inch": "EV004594",
+                    "1/2 inch": "EV004591",
+                    "4 inch": "EV006894",
+                    "2 1/2 inch": "EV006892",
+                    "5/8 inch": "EV006246",
+                    "1/4 inch": "EV006239",
+                    "1 1/4 inch": "EV003504",
+                    "Other": "EV000154",
+                    "3 inch": "EV004595",
+                    "3/4 inch": "EV003502",
+                    "1/8 inch": "EV008488"
+                }
+            },
+            "EF005049": {
+                "feature_name": "With locknut",
+                "values": {
+                    "True": "",
+                    "False": ""
+                }
+            },
+            "EF012184": {
+                "feature_name": "For armoured cable",
+                "values": {
+                    "False": "",
+                    "True": ""
+                }
+            },
+            "EF001062": {
+                "feature_name": "EMC-version",
+                "values": {
+                    "False": "",
+                    "True": ""
+                }
+            },
+            "EF001758": {
+                "feature_name": "Thread type",
+                "values": {
+                    "Gas-thread": "EV003713",
+                    "None": "EV000494",
+                    "PG": "EV003695",
+                    "Metric": "EV003712",
+                    "NPT": "EV003714"
+                }
+            },
+            "EF000368": {
+                "feature_name": "Thread length",
+                "values": {}
+            },
+            "EF004685": {
+                "feature_name": "Flat cable coupling",
+                "values": {
+                    "False": "",
+                    "True": ""
+                }
+            },
+            "EF005466": {
+                "feature_name": "Suitable for cable diameter",
+                "values": {}
+            },
+            "EF007839": {
+                "feature_name": "Nominal thread size metric/PG",
+                "values": {}
+            },
+            "EF000734": {
+                "feature_name": "Bend radius protection/trumpet flare",
+                "values": {
+                    "False": "",
+                    "True": ""
+                }
+            },
+            "EF000007": {
+                "feature_name": "Colour",
+                "values": {
+                    "Colourless": "EV013082",
+                    "Blue": "EV000080",
+                    "Pink": "EV000258",
+                    "Red": "EV000233",
+                    "Other": "EV000154",
+                    "Black": "EV000206",
+                    "Purple": "EV003609",
+                    "Yellow": "EV000234",
+                    "Silver": "EV000205",
+                    "Green": "EV000235",
+                    "Grey": "EV000270",
+                    "White": "EV000202",
+                    "Orange": "EV000236",
+                    "Brass": "EV000149"
+                }
+            },
+            "EF000177": {
+                "feature_name": "Wrench width",
+                "values": {}
+            },
+            "EF012547": {
+                "feature_name": "Snapping in opening",
+                "values": {
+                    "False": "",
+                    "True": ""
+                }
+            },
+            "EF001210": {
+                "feature_name": "Glass-fibre reinforced",
+                "values": {
+                    "False": "",
+                    "True": ""
+                }
+            },
+            "EF005474": {
+                "feature_name": "Degree of protection (IP)",
+                "values": {
+                    "IP41": "EV006416",
+                    "IP52": "EV006613",
+                    "Other": "EV000154",
+                    "IP53": "EV006614",
+                    "IP55": "EV006420",
+                    "IP65/IP67": "EV008925",
+                    "IP34": "EV006413",
+                    "IP10": "EV006606",
+                    "IP43": "EV006610",
+                    "IP65": "EV006421",
+                    "IP42": "EV006417",
+                    "IP3X": "EV006414",
+                    "IP22": "EV006608",
+                    "IP67/IP69K": "EV013221",
+                    "IP64": "EV006618",
+                    "IP20": "EV006405",
+                    "IP68": "EV006619",
+                    "IP67": "EV006423",
+                    "IP12": "EV006607",
+                    "IP44": "EV006418",
+                    "IP50": "EV006612",
+                    "IP57": "EV006616",
+                    "IP2X": "EV006409",
+                    "IP67K": "EV009289",
+                    "IP40": "EV006415",
+                    "IP45": "EV006611",
+                    "IPX4": "EV006621",
+                    "IP56": "EV006615",
+                    "IP69K": "EV009290",
+                    "IP00": "EV006404",
+                    "IPX0": "EV006620",
+                    "IP24": "EV006408",
+                    "IP66": "EV006422",
+                    "IP30": "EV006410",
+                    "IP54": "EV006419",
+                    "IP23": "EV006407",
+                    "IP32": "EV006412",
+                    "IPX7": "EV006622",
+                    "IP58": "EV006617",
+                    "IP31": "EV006411",
+                    "IP21": "EV006406",
+                    "IP33": "EV006609"
+                }
+            },
+            "EF001742": {
+                "feature_name": "Operating temperature",
+                "values": {}
+            },
+            "EF000878": {
+                "feature_name": "With strain relief",
+                "values": {
+                    "True": "",
+                    "False": ""
+                }
+            },
+            "EF005337": {
+                "feature_name": "Separable screw gland",
+                "values": {
+                    "False": "",
+                    "True": ""
+                }
+            },
+            "EF001257": {
+                "feature_name": "Material quality",
+                "values": {
+                    "Cast iron": "EV000117",
+                    "Steel": "EV000179",
+                    "Polyamide (PA)": "EV000402",
+                    "TPE": "EV004499",
+                    "Zinc die-cast": "EV000454",
+                    "Polyethylene (PE)": "EV000157",
+                    "Brass": "EV000149",
+                    "Stainless steel V2A": "EV006909",
+                    "Iron": "EV000133",
+                    "Polystyrene": "EV000934",
+                    "Stainless steel V4A": "EV006908",
+                    "Polycarbonate (PC)": "EV000586",
+                    "Polyvinylidene fluoride (PVDF)": "EV020083",
+                    "Aluminium": "EV000072",
+                    "Polyvinyl chloride (PVC)": "EV000163",
+                    "Stainless steel others": "EV010028",
+                    "Other": "EV000154",
+                    "Polypropylene (PP)": "EV001608"
+                }
+            }
+        }
+    },
+    "EC000621": {
+        "class_name": "Legend plate for control circuit devices",
+        "features": {
+            "EF000051": {
+                "feature_name": "Shape",
+                "values": {
+                    "Oval": "EV000396",
+                    "Square": "EV000382",
+                    "Other": "EV000154",
+                    "Rectangular": "EV000220",
+                    "Hexagonal": "EV008879",
+                    "Round": "EV000167",
+                    "Ring shape": "EV003956"
+                }
+            },
+            "EF000131": {
+                "feature_name": "Imprint",
+                "values": {
+                    "8": "EV002700",
+                    "2": "EV000600",
+                    "6": "EV002393",
+                    "1": "EV000599",
+                    "4": "EV000070",
+                    "0": "EV000601",
+                    "Other": "EV000154",
+                    "5": "EV002392",
+                    "3": "EV000069",
+                    "7": "EV001604",
+                    "9": "EV002394"
+                }
+            },
+            "EF005877": {
+                "feature_name": "Engravable",
+                "values": {
+                    "True": "",
+                    "False": ""
+                }
+            },
+            "EF000007": {
+                "feature_name": "Colour",
+                "values": {
+                    "Colourless": "EV013082",
+                    "Blue": "EV000080",
+                    "Pink": "EV000258",
+                    "Red": "EV000233",
+                    "Other": "EV000154",
+                    "Black": "EV000206",
+                    "Purple": "EV003609",
+                    "Yellow": "EV000234",
+                    "Silver": "EV000205",
+                    "Green": "EV000235",
+                    "Grey": "EV000270",
+                    "White": "EV000202",
+                    "Orange": "EV000236",
+                    "Brass": "EV000149"
+                }
+            },
+            "EF000015": {
+                "feature_name": "Outer diameter",
+                "values": {}
+            },
+            "EF007254": {
+                "feature_name": "Suitable for illuminated push buttons",
+                "values": {
+                    "True": "",
+                    "False": ""
+                }
+            },
+            "EF000040": {
+                "feature_name": "Height",
+                "values": {}
+            },
+            "EF007263": {
+                "feature_name": "Suitable for selector switch",
+                "values": {
+                    "True": "",
+                    "False": ""
+                }
+            },
+            "EF000767": {
+                "feature_name": "Construction type",
+                "values": {
+                    "Flat": "EV000880",
+                    "High": "EV003619"
+                }
+            },
+            "EF000008": {
+                "feature_name": "Width",
+                "values": {}
+            },
+            "EF015922": {
+                "feature_name": "Language of the imprint",
+                "values": {
+                    "Hungarian": "EV018244",
+                    "Danish": "EV018234",
+                    "English": "EV004057",
+                    "Greek": "EV018240",
+                    "Spanish": "EV018236",
+                    "Italian": "EV018238",
+                    "Estonian": "EV018242",
+                    "Slovakian": "EV018248",
+                    "Portuguese": "EV018235",
+                    "Several": "EV006439",
+                    "Other": "EV000154",
+                    "French": "EV022263",
+                    "Czech": "EV018241",
+                    "Polish": "EV018239",
+                    "Dutch": "EV018237",
+                    "German": "EV004056",
+                    "Latvian": "EV018245",
+                    "Lithuanian": "EV018246",
+                    "Norwegian": "EV022265",
+                    "Russian": "EV018247",
+                    "Finnish": "EV018243",
+                    "Swedish": "EV018249",
+                    "Slovenian": "EV018250"
+                }
+            },
+            "EF007257": {
+                "feature_name": "Suitable for mushroom head push button",
+                "values": {
+                    "True": "",
+                    "False": ""
+                }
+            },
+            "EF007255": {
+                "feature_name": "Suitable for indicator light",
+                "values": {
+                    "True": "",
+                    "False": ""
+                }
+            },
+            "EF015918": {
+                "feature_name": "Meaning of the imprint",
+                "values": {
+                    "Fast": "EV017803",
+                    "Test": "EV017805",
+                    "Stop": "EV000562",
+                    "Lower": "EV017800",
+                    "Running": "EV017806",
+                    "Error": "EV018548",
+                    "Fault": "EV017807",
+                    "Main switch": "EV017810",
+                    "Left": "EV004731",
+                    "Down": "EV017795",
+                    "Raise": "EV017799",
+                    "Slow": "EV017804",
+                    "Off": "EV017794",
+                    "Other": "EV000154",
+                    "Close": "EV017796",
+                    "Forward": "EV017797",
+                    "Right": "EV004732",
+                    "Reset": "EV017808",
+                    "Emergency Stop": "EV017809",
+                    "Start": "EV002080",
+                    "Reverse": "EV017798",
+                    "Up": "EV017792",
+                    "None": "EV000494",
+                    "On": "EV017793"
+                }
+            },
+            "EF007244": {
+                "feature_name": "Suitable for push button",
+                "values": {
+                    "True": "",
+                    "False": ""
+                }
+            },
+            "EF001539": {
+                "feature_name": "Programme diameter",
+                "values": {}
+            },
+            "EF006094": {
+                "feature_name": "Imprint ISO symbols",
+                "values": {
+                    "Symbol \"Horn\"": "EV018534",
+                    "Symbol \"I\"": "EV000555",
+                    "Symbol \"0\"": "EV000556",
+                    "Symbol \"I-0\"": "EV008565",
+                    "Symbol \"-\"": "EV002073",
+                    "Symbol \"II\"": "EV000602",
+                    "Symbol \"Release\"": "EV018538",
+                    "Symbol \"III\"": "EV003407",
+                    "Symbol \"Unlock\"": "EV002071",
+                    "Symbol \"Reset\"": "EV018536",
+                    "Symbol \"Automatic outlet\"": "EV018535",
+                    "Symbol \"Spindle STOP\"": "EV018543",
+                    "Symbol \"Hand\"": "EV018537",
+                    "Symbol \"Liquidity\"": "EV018539",
+                    "Symbol \"Tip\"": "EV003074",
+                    "Symbol \"Spindle START\"": "EV018542",
+                    "None": "EV000494",
+                    "Symbol \"+\"": "EV002072",
+                    "Symbol \"Span\"": "EV018532",
+                    "Symbol \"Electric voltage\"": "EV018541",
+                    "Symbol \"Lock\"": "EV018540",
+                    "Other": "EV000154",
+                    "Symbol \"Liquidity STOP\"": "EV018533",
+                    "Symbol \"I-0-II\"": "EV008566",
+                    "Symbol \"Arrow\"": "EV002074"
+                }
+            },
+            "EF007261": {
+                "feature_name": "Suitable for signalling lamp",
+                "values": {
+                    "True": "",
+                    "False": ""
+                }
+            }
+        }
+    },
+    "EC000632": {
+        "class_name": "Control switch, Joystick",
+        "features": {
+            "EF002427": {
+                "feature_name": "Number of normally open contacts per actuation direction",
+                "values": {}
+            },
+            "EF002425": {
+                "feature_name": "Number of actuation directions",
+                "values": {}
+            },
+            "EF005972": {
+                "feature_name": "Material front ring",
+                "values": {
+                    "Plastic": "EV000139",
+                    "Metal": "EV000914",
+                    "Other": "EV000154"
+                }
+            },
+            "EF008263": {
+                "feature_name": "Number of normally closed contacts per actuation direction",
+                "values": {}
+            },
+            "EF005474": {
+                "feature_name": "Degree of protection (IP)",
+                "values": {
+                    "IP41": "EV006416",
+                    "IP52": "EV006613",
+                    "Other": "EV000154",
+                    "IP53": "EV006614",
+                    "IP55": "EV006420",
+                    "IP65/IP67": "EV008925",
+                    "IP34": "EV006413",
+                    "IP10": "EV006606",
+                    "IP43": "EV006610",
+                    "IP65": "EV006421",
+                    "IP42": "EV006417",
+                    "IP3X": "EV006414",
+                    "IP22": "EV006608",
+                    "IP67/IP69K": "EV013221",
+                    "IP64": "EV006618",
+                    "IP20": "EV006405",
+                    "IP68": "EV006619",
+                    "IP67": "EV006423",
+                    "IP12": "EV006607",
+                    "IP44": "EV006418",
+                    "IP50": "EV006612",
+                    "IP57": "EV006616",
+                    "IP2X": "EV006409",
+                    "IP67K": "EV009289",
+                    "IP40": "EV006415",
+                    "IP45": "EV006611",
+                    "IPX4": "EV006621",
+                    "IP56": "EV006615",
+                    "IP69K": "EV009290",
+                    "IP00": "EV006404",
+                    "IPX0": "EV006620",
+                    "IP24": "EV006408",
+                    "IP66": "EV006422",
+                    "IP30": "EV006410",
+                    "IP54": "EV006419",
+                    "IP23": "EV006407",
+                    "IP32": "EV006412",
+                    "IPX7": "EV006622",
+                    "IP58": "EV006617",
+                    "IP31": "EV006411",
+                    "IP21": "EV006406",
+                    "IP33": "EV006609"
+                }
+            },
+            "EF006524": {
+                "feature_name": "Joy stick length",
+                "values": {}
+            },
+            "EF006014": {
+                "feature_name": "With front ring",
+                "values": {
+                    "True": "",
+                    "False": ""
+                }
+            },
+            "EF002428": {
+                "feature_name": "With retraction in 0-position",
+                "values": {
+                    "True": "",
+                    "False": ""
+                }
+            },
+            "EF011959": {
+                "feature_name": "Degree of protection (NEMA)",
+                "values": {
+                    "Other": "EV000154",
+                    "4X, 13": "EV018187",
+                    "12": "EV007990",
+                    "4": "EV000070",
+                    "13": "EV022254",
+                    "3": "EV000069",
+                    "1": "EV000599",
+                    "2": "EV000600",
+                    "3R": "EV014035",
+                    "4X": "EV014040"
+                }
+            },
+            "EF005666": {
+                "feature_name": "Coder",
+                "values": {
+                    "True": "",
+                    "False": ""
+                }
+            },
+            "EF000231": {
+                "feature_name": "Number of switch positions",
+                "values": {}
+            },
+            "EF006283": {
+                "feature_name": "Locking in 0-position",
+                "values": {
+                    "True": "",
+                    "False": ""
+                }
+            },
+            "EF002429": {
+                "feature_name": "Colour front ring",
+                "values": {
+                    "Yellow": "EV000234",
+                    "Titanium": "EV000300",
+                    "Aluminium": "EV000072",
+                    "Chrome": "EV000291",
+                    "Other": "EV000154",
+                    "Black": "EV000206",
+                    "Grey": "EV000270",
+                    "Stainless steel": "EV000294"
+                }
+            },
+            "EF005599": {
+                "feature_name": "Number of make-and-break contacts per direction",
+                "values": {}
+            },
+            "EF002417": {
+                "feature_name": "Rated operation current Ie at AC-21, 400 V",
+                "values": {}
+            },
+            "EF002424": {
+                "feature_name": "Centre mounting, hole diameter",
+                "values": {}
+            },
+            "EF003236": {
+                "feature_name": "Analogue output signal configurable",
+                "values": {
+                    "True": "",
+                    "False": ""
+                }
+            }
+        }
+    },
+    "EC000940": {
+        "class_name": "Locknut for cable screw gland",
+        "features": {
+            "EF007839": {
+                "feature_name": "Nominal thread size metric/PG",
+                "values": {}
+            },
+            "EF003712": {
+                "feature_name": "Pitch thread",
+                "values": {}
+            },
+            "EF006304": {
+                "feature_name": "With grounding connection",
+                "values": {
+                    "True": "",
+                    "False": ""
+                }
+            },
+            "EF000084": {
+                "feature_name": "Shock resistant",
+                "values": {
+                    "True": "",
+                    "False": ""
+                }
+            },
+            "EF001758": {
+                "feature_name": "Thread type",
+                "values": {
+                    "Gas-thread": "EV003713",
+                    "None": "EV000494",
+                    "PG": "EV003695",
+                    "Metric": "EV003712",
+                    "NPT": "EV003714"
+                }
+            },
+            "EF001257": {
+                "feature_name": "Material quality",
+                "values": {
+                    "Cast iron": "EV000117",
+                    "Steel": "EV000179",
+                    "Polyamide (PA)": "EV000402",
+                    "TPE": "EV004499",
+                    "Zinc die-cast": "EV000454",
+                    "Polyethylene (PE)": "EV000157",
+                    "Brass": "EV000149",
+                    "Stainless steel V2A": "EV006909",
+                    "Iron": "EV000133",
+                    "Polystyrene": "EV000934",
+                    "Stainless steel V4A": "EV006908",
+                    "Polycarbonate (PC)": "EV000586",
+                    "Polyvinylidene fluoride (PVDF)": "EV020083",
+                    "Aluminium": "EV000072",
+                    "Polyvinyl chloride (PVC)": "EV000163",
+                    "Stainless steel others": "EV010028",
+                    "Other": "EV000154",
+                    "Polypropylene (PP)": "EV001608"
+                }
+            },
+            "EF000025": {
+                "feature_name": "Halogen free",
+                "values": {
+                    "False": "",
+                    "True": ""
+                }
+            },
+            "EF001210": {
+                "feature_name": "Glass-fibre reinforced",
+                "values": {
+                    "False": "",
+                    "True": ""
+                }
+            },
+            "EF002169": {
+                "feature_name": "Material",
+                "values": {
+                    "Rubber": "EV000169",
+                    "Other": "EV000154",
+                    "Metal": "EV000914",
+                    "Plastic": "EV000139"
+                }
+            },
+            "EF007838": {
+                "feature_name": "Nominal thread size inch/gas pipe thread",
+                "values": {
+                    "3 1/2 inch": "EV006893",
+                    "1 inch": "EV003503",
+                    "1 1/2 inch": "EV004593",
+                    "3/8 inch": "EV003501",
+                    "1 1/8 inch": "EV021139",
+                    "2 inch": "EV004594",
+                    "1/2 inch": "EV004591",
+                    "4 inch": "EV006894",
+                    "2 1/2 inch": "EV006892",
+                    "5/8 inch": "EV006246",
+                    "1/4 inch": "EV006239",
+                    "1 1/4 inch": "EV003504",
+                    "Other": "EV000154",
+                    "3 inch": "EV004595",
+                    "3/4 inch": "EV003502",
+                    "1/8 inch": "EV008488"
+                }
+            },
+            "EF000139": {
+                "feature_name": "Surface protection",
+                "values": {
+                    "Other": "EV000154",
+                    "Hot-dip galvanized": "EV000254",
+                    "Galvanic/electrolytic zinc plated": "EV003454",
+                    "Nickel-plated": "EV000191",
+                    "Untreated": "EV006034"
+                }
+            },
+            "EF000051": {
+                "feature_name": "Shape",
+                "values": {
+                    "Oval": "EV000396",
+                    "Square": "EV000382",
+                    "Other": "EV000154",
+                    "Rectangular": "EV000220",
+                    "Hexagonal": "EV008879",
+                    "Round": "EV000167",
+                    "Ring shape": "EV003956"
+                }
+            },
+            "EF000007": {
+                "feature_name": "Colour",
+                "values": {
+                    "Colourless": "EV013082",
+                    "Blue": "EV000080",
+                    "Pink": "EV000258",
+                    "Red": "EV000233",
+                    "Other": "EV000154",
+                    "Black": "EV000206",
+                    "Purple": "EV003609",
+                    "Yellow": "EV000234",
+                    "Silver": "EV000205",
+                    "Green": "EV000235",
+                    "Grey": "EV000270",
+                    "White": "EV000202",
+                    "Orange": "EV000236",
+                    "Brass": "EV000149"
+                }
+            }
+        }
+    },
+    "EC001020": {
+        "class_name": "Adapter for command devices",
+        "features": {
+            "EF000943": {
+                "feature_name": "Built-in diameter",
+                "values": {}
+            },
+            "EF000219": {
+                "feature_name": "Number of appliances to build in",
+                "values": {}
+            }
+        }
+    },
+    "EC001026": {
+        "class_name": "Acoustic indicator",
+        "features": {
+            "EF002751": {
+                "feature_name": "Type of acoustic signal",
+                "values": {
+                    "Pulse tone": "EV004163",
+                    "Pulse tone/continuous tone": "EV008692",
+                    "Continuous tone": "EV000593",
+                    "Other": "EV000154",
+                    "Programmable": "EV008553"
+                }
+            },
+            "EF008207": {
+                "feature_name": "Operating voltage at AC 60 Hz",
+                "values": {}
+            },
+            "EF000187": {
+                "feature_name": "Voltage type",
+                "values": {
+                    "DC": "EV000461",
+                    "AC": "EV000460",
+                    "AC/DC": "EV000509"
+                }
+            },
+            "EF011959": {
+                "feature_name": "Degree of protection (NEMA)",
+                "values": {
+                    "Other": "EV000154",
+                    "4X, 13": "EV018187",
+                    "12": "EV007990",
+                    "4": "EV000070",
+                    "13": "EV022254",
+                    "3": "EV000069",
+                    "1": "EV000599",
+                    "2": "EV000600",
+                    "3R": "EV014035",
+                    "4X": "EV014040"
+                }
+            },
+            "EF008206": {
+                "feature_name": "Operating voltage at AC 50 Hz",
+                "values": {}
+            },
+            "EF000144": {
+                "feature_name": "Loudness",
+                "values": {}
+            },
+            "EF008208": {
+                "feature_name": "Operating voltage at DC",
+                "values": {}
+            }
+        }
+    },
+    "EC001027": {
+        "class_name": "Potentiometer for command devices",
+        "features": {
+            "EF005474": {
+                "feature_name": "Degree of protection (IP)",
+                "values": {
+                    "IP41": "EV006416",
+                    "IP52": "EV006613",
+                    "Other": "EV000154",
+                    "IP53": "EV006614",
+                    "IP55": "EV006420",
+                    "IP65/IP67": "EV008925",
+                    "IP34": "EV006413",
+                    "IP10": "EV006606",
+                    "IP43": "EV006610",
+                    "IP65": "EV006421",
+                    "IP42": "EV006417",
+                    "IP3X": "EV006414",
+                    "IP22": "EV006608",
+                    "IP67/IP69K": "EV013221",
+                    "IP64": "EV006618",
+                    "IP20": "EV006405",
+                    "IP68": "EV006619",
+                    "IP67": "EV006423",
+                    "IP12": "EV006607",
+                    "IP44": "EV006418",
+                    "IP50": "EV006612",
+                    "IP57": "EV006616",
+                    "IP2X": "EV006409",
+                    "IP67K": "EV009289",
+                    "IP40": "EV006415",
+                    "IP45": "EV006611",
+                    "IPX4": "EV006621",
+                    "IP56": "EV006615",
+                    "IP69K": "EV009290",
+                    "IP00": "EV006404",
+                    "IPX0": "EV006620",
+                    "IP24": "EV006408",
+                    "IP66": "EV006422",
+                    "IP30": "EV006410",
+                    "IP54": "EV006419",
+                    "IP23": "EV006407",
+                    "IP32": "EV006412",
+                    "IPX7": "EV006622",
+                    "IP58": "EV006617",
+                    "IP31": "EV006411",
+                    "IP21": "EV006406",
+                    "IP33": "EV006609"
+                }
+            },
+            "EF000346": {
+                "feature_name": "Power consumption",
+                "values": {}
+            },
+            "EF006943": {
+                "feature_name": "Number of revolutions",
+                "values": {}
+            },
+            "EF000079": {
+                "feature_name": "Hole diameter",
+                "values": {}
+            },
+            "EF002431": {
+                "feature_name": "Resistance",
+                "values": {}
+            },
+            "EF003961": {
+                "feature_name": "Type of electric connection",
+                "values": {
+                    "PCB connection": "EV003963",
+                    "Screw connection": "EV000415",
+                    "Cable": "EV000136",
+                    "Soldering flag connection": "EV005756",
+                    "Other": "EV000154",
+                    "Spring clamp connection": "EV005752",
+                    "With cable preassembled": "EV009340",
+                    "Flat plug-in connection": "EV003968",
+                    "Cable connection, cable not included": "EV011482"
+                }
+            },
+            "EF011959": {
+                "feature_name": "Degree of protection (NEMA)",
+                "values": {
+                    "Other": "EV000154",
+                    "4X, 13": "EV018187",
+                    "12": "EV007990",
+                    "4": "EV000070",
+                    "13": "EV022254",
+                    "3": "EV000069",
+                    "1": "EV000599",
+                    "2": "EV000600",
+                    "3R": "EV014035",
+                    "4X": "EV014040"
+                }
+            }
+        }
+    },
+    "EC001028": {
+        "class_name": "Push button, complete",
+        "features": {
+            "EF008257": {
+                "feature_name": "Number of contacts as change-over contact",
+                "values": {}
+            },
+            "EF002429": {
+                "feature_name": "Colour front ring",
+                "values": {
+                    "Yellow": "EV000234",
+                    "Titanium": "EV000300",
+                    "Aluminium": "EV000072",
+                    "Chrome": "EV000291",
+                    "Other": "EV000154",
+                    "Black": "EV000206",
+                    "Grey": "EV000270",
+                    "Stainless steel": "EV000294"
+                }
+            },
+            "EF000079": {
+                "feature_name": "Hole diameter",
+                "values": {}
+            },
+            "EF011959": {
+                "feature_name": "Degree of protection (NEMA)",
+                "values": {
+                    "Other": "EV000154",
+                    "4X, 13": "EV018187",
+                    "12": "EV007990",
+                    "4": "EV000070",
+                    "13": "EV022254",
+                    "3": "EV000069",
+                    "1": "EV000599",
+                    "2": "EV000600",
+                    "3R": "EV014035",
+                    "4X": "EV014040"
+                }
+            },
+            "EF007447": {
+                "feature_name": "Switching function latching",
+                "values": {
+                    "True": "",
+                    "False": ""
+                }
+            },
+            "EF006253": {
+                "feature_name": "Construction type lens",
+                "values": {
+                    "Round": "EV000167",
+                    "Oval": "EV000396",
+                    "Rectangular": "EV000220",
+                    "Other": "EV000154",
+                    "Square": "EV000382"
+                }
+            },
+            "EF000190": {
+                "feature_name": "Colour button",
+                "values": {
+                    "Yellow": "EV000234",
+                    "Red/black": "EV022325",
+                    "Red/white": "EV023669",
+                    "Black/white/red": "EV011604",
+                    "Black": "EV000206",
+                    "Orange": "EV000236",
+                    "Purple": "EV003609",
+                    "White": "EV000202",
+                    "Red/green": "EV008843",
+                    "Black/white": "EV000711",
+                    "Without button plate": "EV003984",
+                    "Blue": "EV000080",
+                    "Colourless": "EV013082",
+                    "Green": "EV000235",
+                    "Silver": "EV000205",
+                    "Red": "EV000233",
+                    "Set with several colours": "EV009397",
+                    "Other": "EV000154",
+                    "Grey": "EV000270"
+                }
+            },
+            "EF005474": {
+                "feature_name": "Degree of protection (IP)",
+                "values": {
+                    "IP41": "EV006416",
+                    "IP52": "EV006613",
+                    "Other": "EV000154",
+                    "IP53": "EV006614",
+                    "IP55": "EV006420",
+                    "IP65/IP67": "EV008925",
+                    "IP34": "EV006413",
+                    "IP10": "EV006606",
+                    "IP43": "EV006610",
+                    "IP65": "EV006421",
+                    "IP42": "EV006417",
+                    "IP3X": "EV006414",
+                    "IP22": "EV006608",
+                    "IP67/IP69K": "EV013221",
+                    "IP64": "EV006618",
+                    "IP20": "EV006405",
+                    "IP68": "EV006619",
+                    "IP67": "EV006423",
+                    "IP12": "EV006607",
+                    "IP44": "EV006418",
+                    "IP50": "EV006612",
+                    "IP57": "EV006616",
+                    "IP2X": "EV006409",
+                    "IP67K": "EV009289",
+                    "IP40": "EV006415",
+                    "IP45": "EV006611",
+                    "IPX4": "EV006621",
+                    "IP56": "EV006615",
+                    "IP69K": "EV009290",
+                    "IP00": "EV006404",
+                    "IPX0": "EV006620",
+                    "IP24": "EV006408",
+                    "IP66": "EV006422",
+                    "IP30": "EV006410",
+                    "IP54": "EV006419",
+                    "IP23": "EV006407",
+                    "IP32": "EV006412",
+                    "IPX7": "EV006622",
+                    "IP58": "EV006617",
+                    "IP31": "EV006411",
+                    "IP21": "EV006406",
+                    "IP33": "EV006609"
+                }
+            },
+            "EF001372": {
+                "feature_name": "Number of command positions",
+                "values": {}
+            },
+            "EF006522": {
+                "feature_name": "Supply voltage lamp",
+                "values": {}
+            },
+            "EF008255": {
+                "feature_name": "Number of contacts as normally closed contact",
+                "values": {}
+            },
+            "EF001546": {
+                "feature_name": "Type of button",
+                "values": {
+                    "Flat": "EV000880",
+                    "Other": "EV000154",
+                    "Mushroom": "EV000280",
+                    "High": "EV003619",
+                    "Combination": "EV005418"
+                }
+            },
+            "EF003961": {
+                "feature_name": "Type of electric connection",
+                "values": {
+                    "PCB connection": "EV003963",
+                    "Screw connection": "EV000415",
+                    "Cable": "EV000136",
+                    "Soldering flag connection": "EV005756",
+                    "Other": "EV000154",
+                    "Spring clamp connection": "EV005752",
+                    "With cable preassembled": "EV009340",
+                    "Flat plug-in connection": "EV003968",
+                    "Cable connection, cable not included": "EV011482"
+                }
+            },
+            "EF001142": {
+                "feature_name": "Suitable for illumination",
+                "values": {
+                    "False": "",
+                    "True": ""
+                }
+            },
+            "EF008256": {
+                "feature_name": "Number of contacts as normally open contact",
+                "values": {}
+            },
+            "EF001407": {
+                "feature_name": "Spring-return",
+                "values": {
+                    "True": "",
+                    "False": ""
+                }
+            },
+            "EF006014": {
+                "feature_name": "With front ring",
+                "values": {
+                    "True": "",
+                    "False": ""
+                }
+            },
+            "EF004778": {
+                "feature_name": "Height opening",
+                "values": {}
+            },
+            "EF005972": {
+                "feature_name": "Material front ring",
+                "values": {
+                    "Plastic": "EV000139",
+                    "Metal": "EV000914",
+                    "Other": "EV000154"
+                }
+            },
+            "EF004565": {
+                "feature_name": "Width opening",
+                "values": {}
+            }
+        }
+    },
+    "EC001029": {
+        "class_name": "Selector switch, complete",
+        "features": {
+            "EF007447": {
+                "feature_name": "Switching function latching",
+                "values": {
+                    "True": "",
+                    "False": ""
+                }
+            },
+            "EF008256": {
+                "feature_name": "Number of contacts as normally open contact",
+                "values": {}
+            },
+            "EF003961": {
+                "feature_name": "Type of electric connection",
+                "values": {
+                    "PCB connection": "EV003963",
+                    "Screw connection": "EV000415",
+                    "Cable": "EV000136",
+                    "Soldering flag connection": "EV005756",
+                    "Other": "EV000154",
+                    "Spring clamp connection": "EV005752",
+                    "With cable preassembled": "EV009340",
+                    "Flat plug-in connection": "EV003968",
+                    "Cable connection, cable not included": "EV011482"
+                }
+            },
+            "EF000231": {
+                "feature_name": "Number of switch positions",
+                "values": {}
+            },
+            "EF005972": {
+                "feature_name": "Material front ring",
+                "values": {
+                    "Plastic": "EV000139",
+                    "Metal": "EV000914",
+                    "Other": "EV000154"
+                }
+            },
+            "EF001142": {
+                "feature_name": "Suitable for illumination",
+                "values": {
+                    "False": "",
+                    "True": ""
+                }
+            },
+            "EF008257": {
+                "feature_name": "Number of contacts as change-over contact",
+                "values": {}
+            },
+            "EF005474": {
+                "feature_name": "Degree of protection (IP)",
+                "values": {
+                    "IP41": "EV006416",
+                    "IP52": "EV006613",
+                    "Other": "EV000154",
+                    "IP53": "EV006614",
+                    "IP55": "EV006420",
+                    "IP65/IP67": "EV008925",
+                    "IP34": "EV006413",
+                    "IP10": "EV006606",
+                    "IP43": "EV006610",
+                    "IP65": "EV006421",
+                    "IP42": "EV006417",
+                    "IP3X": "EV006414",
+                    "IP22": "EV006608",
+                    "IP67/IP69K": "EV013221",
+                    "IP64": "EV006618",
+                    "IP20": "EV006405",
+                    "IP68": "EV006619",
+                    "IP67": "EV006423",
+                    "IP12": "EV006607",
+                    "IP44": "EV006418",
+                    "IP50": "EV006612",
+                    "IP57": "EV006616",
+                    "IP2X": "EV006409",
+                    "IP67K": "EV009289",
+                    "IP40": "EV006415",
+                    "IP45": "EV006611",
+                    "IPX4": "EV006621",
+                    "IP56": "EV006615",
+                    "IP69K": "EV009290",
+                    "IP00": "EV006404",
+                    "IPX0": "EV006620",
+                    "IP24": "EV006408",
+                    "IP66": "EV006422",
+                    "IP30": "EV006410",
+                    "IP54": "EV006419",
+                    "IP23": "EV006407",
+                    "IP32": "EV006412",
+                    "IPX7": "EV006622",
+                    "IP58": "EV006617",
+                    "IP31": "EV006411",
+                    "IP21": "EV006406",
+                    "IP33": "EV006609"
+                }
+            },
+            "EF006014": {
+                "feature_name": "With front ring",
+                "values": {
+                    "True": "",
+                    "False": ""
+                }
+            },
+            "EF006976": {
+                "feature_name": "Type of control element",
+                "values": {
+                    "Rocker lever": "EV001252",
+                    "Rocker": "EV000200",
+                    "Turn button": "EV000092",
+                    "Key": "EV000175",
+                    "Toggle": "EV000421",
+                    "Other": "EV000154",
+                    "Short thumb-grip": "EV004094",
+                    "Long turning handle": "EV004095",
+                    "Push button": "EV000554"
+                }
+            },
+            "EF004778": {
+                "feature_name": "Height opening",
+                "values": {}
+            },
+            "EF011959": {
+                "feature_name": "Degree of protection (NEMA)",
+                "values": {
+                    "Other": "EV000154",
+                    "4X, 13": "EV018187",
+                    "12": "EV007990",
+                    "4": "EV000070",
+                    "13": "EV022254",
+                    "3": "EV000069",
+                    "1": "EV000599",
+                    "2": "EV000600",
+                    "3R": "EV014035",
+                    "4X": "EV014040"
+                }
+            },
+            "EF004127": {
+                "feature_name": "Supply voltage",
+                "values": {}
+            },
+            "EF008255": {
+                "feature_name": "Number of contacts as normally closed contact",
+                "values": {}
+            },
+            "EF002429": {
+                "feature_name": "Colour front ring",
+                "values": {
+                    "Yellow": "EV000234",
+                    "Titanium": "EV000300",
+                    "Aluminium": "EV000072",
+                    "Chrome": "EV000291",
+                    "Other": "EV000154",
+                    "Black": "EV000206",
+                    "Grey": "EV000270",
+                    "Stainless steel": "EV000294"
+                }
+            },
+            "EF000079": {
+                "feature_name": "Hole diameter",
+                "values": {}
+            },
+            "EF000190": {
+                "feature_name": "Colour button",
+                "values": {
+                    "Yellow": "EV000234",
+                    "Red/black": "EV022325",
+                    "Red/white": "EV023669",
+                    "Black/white/red": "EV011604",
+                    "Black": "EV000206",
+                    "Orange": "EV000236",
+                    "Purple": "EV003609",
+                    "White": "EV000202",
+                    "Red/green": "EV008843",
+                    "Black/white": "EV000711",
+                    "Without button plate": "EV003984",
+                    "Blue": "EV000080",
+                    "Colourless": "EV013082",
+                    "Green": "EV000235",
+                    "Silver": "EV000205",
+                    "Red": "EV000233",
+                    "Set with several colours": "EV009397",
+                    "Other": "EV000154",
+                    "Grey": "EV000270"
+                }
+            },
+            "EF005905": {
+                "feature_name": "With light source",
+                "values": {
+                    "False": "",
+                    "True": ""
+                }
+            },
+            "EF001407": {
+                "feature_name": "Spring-return",
+                "values": {
+                    "True": "",
+                    "False": ""
+                }
+            },
+            "EF004565": {
+                "feature_name": "Width opening",
+                "values": {}
+            }
+        }
+    },
+    "EC001032": {
+        "class_name": "Text plate holder for command devices",
+        "features": {
+            "EF004565": {
+                "feature_name": "Width opening",
+                "values": {}
+            },
+            "EF000008": {
+                "feature_name": "Width",
+                "values": {}
+            },
+            "EF004778": {
+                "feature_name": "Height opening",
+                "values": {}
+            },
+            "EF000040": {
+                "feature_name": "Height",
+                "values": {}
+            },
+            "EF000007": {
+                "feature_name": "Colour",
+                "values": {
+                    "Colourless": "EV013082",
+                    "Blue": "EV000080",
+                    "Pink": "EV000258",
+                    "Red": "EV000233",
+                    "Other": "EV000154",
+                    "Black": "EV000206",
+                    "Purple": "EV003609",
+                    "Yellow": "EV000234",
+                    "Silver": "EV000205",
+                    "Green": "EV000235",
+                    "Grey": "EV000270",
+                    "White": "EV000202",
+                    "Orange": "EV000236",
+                    "Brass": "EV000149"
+                }
+            },
+            "EF000079": {
+                "feature_name": "Hole diameter",
+                "values": {}
+            },
+            "EF000051": {
+                "feature_name": "Shape",
+                "values": {
+                    "Oval": "EV000396",
+                    "Square": "EV000382",
+                    "Other": "EV000154",
+                    "Rectangular": "EV000220",
+                    "Hexagonal": "EV008879",
+                    "Round": "EV000167",
+                    "Ring shape": "EV003956"
+                }
+            }
+        }
+    },
+    "EC001038": {
+        "class_name": "Front element for mushroom push-button",
+        "features": {
+            "EF001407": {
+                "feature_name": "Spring-return",
+                "values": {
+                    "True": "",
+                    "False": ""
+                }
+            },
+            "EF000190": {
+                "feature_name": "Colour button",
+                "values": {
+                    "Yellow": "EV000234",
+                    "Red/black": "EV022325",
+                    "Red/white": "EV023669",
+                    "Black/white/red": "EV011604",
+                    "Black": "EV000206",
+                    "Orange": "EV000236",
+                    "Purple": "EV003609",
+                    "White": "EV000202",
+                    "Red/green": "EV008843",
+                    "Black/white": "EV000711",
+                    "Without button plate": "EV003984",
+                    "Blue": "EV000080",
+                    "Colourless": "EV013082",
+                    "Green": "EV000235",
+                    "Silver": "EV000205",
+                    "Red": "EV000233",
+                    "Set with several colours": "EV009397",
+                    "Other": "EV000154",
+                    "Grey": "EV000270"
+                }
+            },
+            "EF001403": {
+                "feature_name": "Unlocking method",
+                "values": {
+                    "Key-release": "EV003976",
+                    "Pull-release": "EV003974",
+                    "Turn-release": "EV003975",
+                    "Other": "EV000154",
+                    "None": "EV000494"
+                }
+            },
+            "EF005474": {
+                "feature_name": "Degree of protection (IP)",
+                "values": {
+                    "IP41": "EV006416",
+                    "IP52": "EV006613",
+                    "Other": "EV000154",
+                    "IP53": "EV006614",
+                    "IP55": "EV006420",
+                    "IP65/IP67": "EV008925",
+                    "IP34": "EV006413",
+                    "IP10": "EV006606",
+                    "IP43": "EV006610",
+                    "IP65": "EV006421",
+                    "IP42": "EV006417",
+                    "IP3X": "EV006414",
+                    "IP22": "EV006608",
+                    "IP67/IP69K": "EV013221",
+                    "IP64": "EV006618",
+                    "IP20": "EV006405",
+                    "IP68": "EV006619",
+                    "IP67": "EV006423",
+                    "IP12": "EV006607",
+                    "IP44": "EV006418",
+                    "IP50": "EV006612",
+                    "IP57": "EV006616",
+                    "IP2X": "EV006409",
+                    "IP67K": "EV009289",
+                    "IP40": "EV006415",
+                    "IP45": "EV006611",
+                    "IPX4": "EV006621",
+                    "IP56": "EV006615",
+                    "IP69K": "EV009290",
+                    "IP00": "EV006404",
+                    "IPX0": "EV006620",
+                    "IP24": "EV006408",
+                    "IP66": "EV006422",
+                    "IP30": "EV006410",
+                    "IP54": "EV006419",
+                    "IP23": "EV006407",
+                    "IP32": "EV006412",
+                    "IPX7": "EV006622",
+                    "IP58": "EV006617",
+                    "IP31": "EV006411",
+                    "IP21": "EV006406",
+                    "IP33": "EV006609"
+                }
+            },
+            "EF004565": {
+                "feature_name": "Width opening",
+                "values": {}
+            },
+            "EF002429": {
+                "feature_name": "Colour front ring",
+                "values": {
+                    "Yellow": "EV000234",
+                    "Titanium": "EV000300",
+                    "Aluminium": "EV000072",
+                    "Chrome": "EV000291",
+                    "Other": "EV000154",
+                    "Black": "EV000206",
+                    "Grey": "EV000270",
+                    "Stainless steel": "EV000294"
+                }
+            },
+            "EF001142": {
+                "feature_name": "Suitable for illumination",
+                "values": {
+                    "False": "",
+                    "True": ""
+                }
+            },
+            "EF006522": {
+                "feature_name": "Supply voltage lamp",
+                "values": {}
+            },
+            "EF003829": {
+                "feature_name": "With lighting",
+                "values": {
+                    "False": "",
+                    "True": ""
+                }
+            },
+            "EF001423": {
+                "feature_name": "Diameter cap",
+                "values": {}
+            },
+            "EF004778": {
+                "feature_name": "Height opening",
+                "values": {}
+            },
+            "EF001546": {
+                "feature_name": "Type of button",
+                "values": {
+                    "Flat": "EV000880",
+                    "Other": "EV000154",
+                    "Mushroom": "EV000280",
+                    "High": "EV003619",
+                    "Combination": "EV005418"
+                }
+            },
+            "EF011959": {
+                "feature_name": "Degree of protection (NEMA)",
+                "values": {
+                    "Other": "EV000154",
+                    "4X, 13": "EV018187",
+                    "12": "EV007990",
+                    "4": "EV000070",
+                    "13": "EV022254",
+                    "3": "EV000069",
+                    "1": "EV000599",
+                    "2": "EV000600",
+                    "3R": "EV014035",
+                    "4X": "EV014040"
+                }
+            },
+            "EF000079": {
+                "feature_name": "Hole diameter",
+                "values": {}
+            },
+            "EF006253": {
+                "feature_name": "Construction type lens",
+                "values": {
+                    "Round": "EV000167",
+                    "Oval": "EV000396",
+                    "Rectangular": "EV000220",
+                    "Other": "EV000154",
+                    "Square": "EV000382"
+                }
+            },
+            "EF007447": {
+                "feature_name": "Switching function latching",
+                "values": {
+                    "True": "",
+                    "False": ""
+                }
+            },
+            "EF001433": {
+                "feature_name": "Suitable for emergency stop",
+                "values": {
+                    "True": "",
+                    "False": ""
+                }
+            },
+            "EF006014": {
+                "feature_name": "With front ring",
+                "values": {
+                    "True": "",
+                    "False": ""
+                }
+            },
+            "EF005972": {
+                "feature_name": "Material front ring",
+                "values": {
+                    "Plastic": "EV000139",
+                    "Metal": "EV000914",
+                    "Other": "EV000154"
+                }
+            }
+        }
+    },
+    "EC001072": {
+        "class_name": "Hood/lens for circuit control devices",
+        "features": {
+            "EF000008": {
+                "feature_name": "Width",
+                "values": {}
+            },
+            "EF000943": {
+                "feature_name": "Built-in diameter",
+                "values": {}
+            },
+            "EF000767": {
+                "feature_name": "Construction type",
+                "values": {
+                    "Flat": "EV000880",
+                    "High": "EV003619"
+                }
+            },
+            "EF001371": {
+                "feature_name": "Shape of lens",
+                "values": {
+                    "Square": "EV000382",
+                    "Triangular": "EV010245",
+                    "Rectangular": "EV000220",
+                    "Round": "EV000167"
+                }
+            },
+            "EF000207": {
+                "feature_name": "Colour lens",
+                "values": {
+                    "White": "EV000202",
+                    "Yellow": "EV000234",
+                    "Other": "EV000154",
+                    "Orange": "EV000236",
+                    "Red": "EV000233",
+                    "Grey": "EV000270",
+                    "Colourless": "EV013082",
+                    "Green": "EV000235",
+                    "Purple": "EV003609",
+                    "Without hood": "EV005136",
+                    "Black": "EV000206",
+                    "Set with several colours": "EV009397",
+                    "Blue": "EV000080"
+                }
+            },
+            "EF000040": {
+                "feature_name": "Height",
+                "values": {}
+            },
+            "EF001537": {
+                "feature_name": "Labelled",
+                "values": {
+                    "False": "",
+                    "True": ""
+                }
+            },
+            "EF000551": {
+                "feature_name": "Diameter",
+                "values": {}
+            }
+        }
+    },
+    "EC002024": {
+        "class_name": "Accessories/spare parts for command devices",
+        "features": {
+            "EF005994": {
+                "feature_name": "Type of mechanical accessory/spare part",
+                "values": {
+                    "Gasket": "EV021185",
+                    "Contact amplifying bracket": "EV008134",
+                    "Cover ring key switch": "EV008071",
+                    "Mounting plate": "EV000614",
+                    "Mounting nut": "EV008101",
+                    "Anti twisting nut": "EV008096",
+                    "Dust protection cover": "EV009438",
+                    "Strengthening plate for push-button": "EV008712",
+                    "Other": "EV000154",
+                    "Contact block dummy": "EV008676",
+                    "Clamping plate": "EV023193",
+                    "Bottom adapter": "EV008103",
+                    "Reducing ring": "EV008555",
+                    "Mounting plate push button": "EV008611",
+                    "Mounting bracket": "EV009936",
+                    "Front ring for flat mounting": "EV008561",
+                    "Potentiometer holder": "EV008605",
+                    "Front frame": "EV013584",
+                    "Protective collar": "EV008539",
+                    "Screw ring": "EV006868",
+                    "Key": "EV000175",
+                    "Front ring": "EV001480"
+                }
+            },
+            "EF005722": {
+                "feature_name": "Type of electrical accessory/spare part",
+                "values": {
+                    "Extension": "EV017191",
+                    "Diode bloc": "EV008148",
+                    "Diode element": "EV008149",
+                    "Bridge": "EV009666",
+                    "Flashing element": "EV008680",
+                    "Resistor block": "EV008715",
+                    "Card": "EV007448",
+                    "R/C element": "EV008700",
+                    "Capacitor block": "EV008126",
+                    "AS-Interface": "EV006558",
+                    "Other": "EV000154",
+                    "Auxiliary contact": "EV022419",
+                    "Actuator": "EV010885",
+                    "Lighting ring": "EV018293",
+                    "Connection block": "EV022806",
+                    "DIN-rail-adapter": "EV008147"
+                }
+            }
+        }
+    },
+    "EC002034": {
+        "class_name": "Emergency stop complete",
+        "features": {
+            "EF000003": {
+                "feature_name": "Mounting method",
+                "values": {
+                    "Front fastening": "EV003964",
+                    "Surface mounting": "EV000945",
+                    "Bottom side": "EV008721",
+                    "Side mounting": "EV003965",
+                    "Floor fastening": "EV009177",
+                    "Built-in": "EV000134",
+                    "Other": "EV000154"
+                }
+            },
+            "EF000079": {
+                "feature_name": "Hole diameter",
+                "values": {}
+            },
+            "EF001423": {
+                "feature_name": "Diameter cap",
+                "values": {}
+            },
+            "EF008256": {
+                "feature_name": "Number of contacts as normally open contact",
+                "values": {}
+            },
+            "EF006820": {
+                "feature_name": "Connection type auxiliary circuit",
+                "values": {
+                    "Spring clamp connection": "EV005752",
+                    "Screw connection": "EV000415",
+                    "Other": "EV000154",
+                    "Soldering flag connection": "EV005756",
+                    "Flat plug-in connection": "EV003968",
+                    "PCB connection": "EV003963"
+                }
+            },
+            "EF003829": {
+                "feature_name": "With lighting",
+                "values": {
+                    "False": "",
+                    "True": ""
+                }
+            },
+            "EF008255": {
+                "feature_name": "Number of contacts as normally closed contact",
+                "values": {}
+            },
+            "EF011959": {
+                "feature_name": "Degree of protection (NEMA)",
+                "values": {
+                    "Other": "EV000154",
+                    "4X, 13": "EV018187",
+                    "12": "EV007990",
+                    "4": "EV000070",
+                    "13": "EV022254",
+                    "3": "EV000069",
+                    "1": "EV000599",
+                    "2": "EV000600",
+                    "3R": "EV014035",
+                    "4X": "EV014040"
+                }
+            },
+            "EF005474": {
+                "feature_name": "Degree of protection (IP)",
+                "values": {
+                    "IP41": "EV006416",
+                    "IP52": "EV006613",
+                    "Other": "EV000154",
+                    "IP53": "EV006614",
+                    "IP55": "EV006420",
+                    "IP65/IP67": "EV008925",
+                    "IP34": "EV006413",
+                    "IP10": "EV006606",
+                    "IP43": "EV006610",
+                    "IP65": "EV006421",
+                    "IP42": "EV006417",
+                    "IP3X": "EV006414",
+                    "IP22": "EV006608",
+                    "IP67/IP69K": "EV013221",
+                    "IP64": "EV006618",
+                    "IP20": "EV006405",
+                    "IP68": "EV006619",
+                    "IP67": "EV006423",
+                    "IP12": "EV006607",
+                    "IP44": "EV006418",
+                    "IP50": "EV006612",
+                    "IP57": "EV006616",
+                    "IP2X": "EV006409",
+                    "IP67K": "EV009289",
+                    "IP40": "EV006415",
+                    "IP45": "EV006611",
+                    "IPX4": "EV006621",
+                    "IP56": "EV006615",
+                    "IP69K": "EV009290",
+                    "IP00": "EV006404",
+                    "IPX0": "EV006620",
+                    "IP24": "EV006408",
+                    "IP66": "EV006422",
+                    "IP30": "EV006410",
+                    "IP54": "EV006419",
+                    "IP23": "EV006407",
+                    "IP32": "EV006412",
+                    "IPX7": "EV006622",
+                    "IP58": "EV006617",
+                    "IP31": "EV006411",
+                    "IP21": "EV006406",
+                    "IP33": "EV006609"
+                }
+            },
+            "EF001403": {
+                "feature_name": "Unlocking method",
+                "values": {
+                    "Key-release": "EV003976",
+                    "Pull-release": "EV003974",
+                    "Turn-release": "EV003975",
+                    "Other": "EV000154",
+                    "None": "EV000494"
+                }
+            },
+            "EF006522": {
+                "feature_name": "Supply voltage lamp",
+                "values": {}
+            }
+        }
+    },
+    "EC002036": {
+        "class_name": "Front bezel pushbutton",
+        "features": {
+            "EF006253": {
+                "feature_name": "Construction type lens",
+                "values": {
+                    "Round": "EV000167",
+                    "Oval": "EV000396",
+                    "Rectangular": "EV000220",
+                    "Other": "EV000154",
+                    "Square": "EV000382"
+                }
+            },
+            "EF005972": {
+                "feature_name": "Material front ring",
+                "values": {
+                    "Plastic": "EV000139",
+                    "Metal": "EV000914",
+                    "Other": "EV000154"
+                }
+            },
+            "EF000010": {
+                "feature_name": "Model",
+                "values": {
+                    "90°-elbow": "EV005918",
+                    "High": "EV003619",
+                    "Other": "EV000154",
+                    "Top mounting and integrable": "EV009153",
+                    "Raised": "EV008404",
+                    "Integrable": "EV003966",
+                    "Straight": "EV000164",
+                    "45°-elbow": "EV005917",
+                    "Top mounting": "EV000544",
+                    "Flat": "EV000880"
+                }
+            },
+            "EF002429": {
+                "feature_name": "Colour front ring",
+                "values": {
+                    "Yellow": "EV000234",
+                    "Titanium": "EV000300",
+                    "Aluminium": "EV000072",
+                    "Chrome": "EV000291",
+                    "Other": "EV000154",
+                    "Black": "EV000206",
+                    "Grey": "EV000270",
+                    "Stainless steel": "EV000294"
+                }
+            }
+        }
+    },
+    "EC002040": {
+        "class_name": "Protective cap for command devices",
+        "features": {
+            "EF006243": {
+                "feature_name": "Transparent",
+                "values": {
+                    "False": "",
+                    "True": ""
+                }
+            },
+            "EF000010": {
+                "feature_name": "Model",
+                "values": {
+                    "90°-elbow": "EV005918",
+                    "High": "EV003619",
+                    "Other": "EV000154",
+                    "Top mounting and integrable": "EV009153",
+                    "Raised": "EV008404",
+                    "Integrable": "EV003966",
+                    "Straight": "EV000164",
+                    "45°-elbow": "EV005917",
+                    "Top mounting": "EV000544",
+                    "Flat": "EV000880"
+                }
+            },
+            "EF000051": {
+                "feature_name": "Shape",
+                "values": {
+                    "Oval": "EV000396",
+                    "Square": "EV000382",
+                    "Other": "EV000154",
+                    "Rectangular": "EV000220",
+                    "Hexagonal": "EV008879",
+                    "Round": "EV000167",
+                    "Ring shape": "EV003956"
+                }
+            },
+            "EF000007": {
+                "feature_name": "Colour",
+                "values": {
+                    "Colourless": "EV013082",
+                    "Blue": "EV000080",
+                    "Pink": "EV000258",
+                    "Red": "EV000233",
+                    "Other": "EV000154",
+                    "Black": "EV000206",
+                    "Purple": "EV003609",
+                    "Yellow": "EV000234",
+                    "Silver": "EV000205",
+                    "Green": "EV000235",
+                    "Grey": "EV000270",
+                    "White": "EV000202",
+                    "Orange": "EV000236",
+                    "Brass": "EV000149"
+                }
+            }
+        }
+    },
+    "EC002172": {
+        "class_name": "Lamp extractor",
+        "features": {
+            "EF006494": {
+                "feature_name": "For lamp diameter",
+                "values": {}
+            }
+        }
+    }
+}

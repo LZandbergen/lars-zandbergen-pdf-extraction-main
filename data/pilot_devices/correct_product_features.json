@@ -1,0 +1,63 @@
+{
+    "1SFA611821R1000": {
+        "product_description": "1-seat, n Color: Yellow /  light gray",
+        "values": {
+            "Degree of protection (IP)": "IP66",
+            "Height": "74.4 mm",
+            "Construction type housing": "None",
+            "Diameter openings": "22 mm",
+            "Colour housing cover": "Yellow",
+            "Number of command positions": "1",
+            "Material housing": "Plastic",
+            "Depth": "60.5 mm",
+            "Degree of protection (NEMA)": "1, 3R, 4, 4X, 12, 13",
+            "Width": "101 mm",
+            "Housing material quality": "Polyester"
+        }
+    },
+    "1SFA611930R1024_UNLABELED": {
+        "product_description": "Without text, Text symbol: top legend plates fo  mounted enclosures. Yel",
+        "values": {
+            "Shape": "Oval",
+            "Imprint": null,
+            "Engravable": null,
+            "Colour": "Yellow",
+            "Outer diameter": null,
+            "Suitable for illuminated push buttons": null,
+            "Height": "59 mm",
+            "Suitable for selector switch": null,
+            "Construction type": null,
+            "Width": "66 mm",
+            "Language of the imprint": null,
+            "Suitable for mushroom head push button": null,
+            "Suitable for indicator light": null,
+            "Meaning of the imprint": null,
+            "Suitable for push button": null,
+            "Programme diameter": null,
+            "Imprint ISO symbols": null,
+            "Suitable for signalling lamp": null
+        }
+    },
+    "1SFA611100R1103_UNLABELED": {
+        "product_description": "l Yellow, Pkg: 1 qty",
+        "values": {
+            "Suitable for illumination": null,
+            "Switching function latching": null,
+            "Material front ring": "Plastic",
+            "Degree of protection (NEMA), front side": "1, 3R, 4, 4X, 12, 13",
+            "Width opening": null,
+            "With protective cover": null,
+            "Degree of protection (IP), front side": "IP66, IP67, IP69K",
+            "Hole diameter": null,
+            "Height opening": null,
+            "Number of command positions": "3",
+            "Colour button": "Yellow",
+            "Spring-return": null,
+            "Construction type lens": null,
+            "Labelled": null,
+            "Type of button": null,
+            "Colour front ring": "Black",
+            "With front ring": null
+        }
+    }
+}
